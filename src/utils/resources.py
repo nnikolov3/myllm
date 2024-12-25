@@ -52,12 +52,13 @@ class ResourceMonitor:
                 resources = self._get_current_resources()
                 with self._lock:
                     self.history.append(resources)
-                    # Keep last hour of history (assuming 1-second intervals)
-                    if len(self.history) > 3600:
+                    if len(self.history) > 100:  # Keep last 100 samples
                         self.history.pop(0)
+                await asyncio.sleep(self.sampling_interval)
             except Exception as e:
-                logger.error(f"Error monitoring resources: {e}")
-            await asyncio.sleep(self.sampling_interval)
+                logger.error(f"Error in resource monitoring: {e}")
+                break
+        return True
     
     def stop_monitoring(self):
         """Stop resource monitoring."""
@@ -104,15 +105,26 @@ class ResourceManager:
         self._log_system_info()
         
     def _initialize_resources(self) -> SystemResources:
-        """Initialize system resource information."""
-        return SystemResources(
-            cpu_count=psutil.cpu_count(logical=True),
-            total_memory=psutil.virtual_memory().total,
-            available_memory=psutil.virtual_memory().available,
-            gpu_available=torch.cuda.is_available(),
-            gpu_count=torch.cuda.device_count() if torch.cuda.is_available() else 0
-        )
-    
+        """Initialize and return system resources information."""
+        try:
+            return SystemResources(
+                cpu_count=psutil.cpu_count(),
+                total_memory=psutil.virtual_memory().total,
+                available_memory=psutil.virtual_memory().available,
+                gpu_available=torch.cuda.is_available(),
+                gpu_count=torch.cuda.device_count() if torch.cuda.is_available() else 0
+            )
+        except Exception as e:
+            logger.error(f"Error initializing resources: {e}")
+            # Provide fallback values if there's an error
+            return SystemResources(
+                cpu_count=1,
+                total_memory=0,
+                available_memory=0,
+                gpu_available=False,
+                gpu_count=0
+            )
+
     def _log_system_info(self) -> None:
         """Log system resource information."""
         logger.info("System Resources:")
@@ -124,14 +136,18 @@ class ResourceManager:
             logger.info(f"GPU Count: {self.resources.gpu_count}")
             for i in range(self.resources.gpu_count):
                 logger.info(f"GPU {i}: {torch.cuda.get_device_name(i)}")
-
+        
     async def start_monitoring(self):
         """Start resource monitoring."""
-        """Start resource monitoring."""
-        self._monitoring = True
-        logger.info("Resource monitoring started")
-        return True
-        
+        try:
+            # Delegate to the monitor's start_monitoring
+            monitoring_task = asyncio.create_task(self.monitor.start_monitoring())
+            logger.info("Resource monitoring started")
+            return monitoring_task
+        except Exception as e:
+            logger.error(f"Failed to start monitoring: {e}")
+            raise
+
     def stop_monitoring(self):
         """Stop resource monitoring."""
         self.monitor.stop_monitoring()
@@ -230,3 +246,12 @@ class ResourceManager:
                 'utilization': usage.get('gpu_utilization')
             } if self.resources.gpu_available else None
         }
+
+    async def cleanup(self):
+        """Cleanup resources before shutdown."""
+        try:
+            self.stop_monitoring()
+            await asyncio.sleep(0)  # Allow any pending tasks to complete
+            logger.info("Resource manager cleanup completed")
+        except Exception as e:
+            logger.error(f"Error during resource cleanup: {e}")

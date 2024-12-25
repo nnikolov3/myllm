@@ -1,0 +1,19 @@
+models:
+  mistral:
+    name: "mistral:latest"
+    weight: 0.33
+    timeout: 30
+  llama:
+    name: "llama3.2:latest"
+    weight: 0.33
+    timeout: 30
+  granite:
+    name: "granite3.1-dense:8b"
+    weight: 0.34
+    timeout: 30
+
+system:
+  batch_size: 10
+  max_tokens: 2048
+  cache_size: 1000
+  gpu_memory_threshold: 0.8

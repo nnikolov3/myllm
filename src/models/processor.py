@@ -261,6 +261,8 @@ class PDFProcessor:
                     chapter_docs[chapter_title] = []
                 chapter_docs[chapter_title].append(doc)
             
+            logger.debug(f"Chapter docs: {list(chapter_docs.keys())}")
+            
             # Create enhanced documents with chapter context
             enhanced_docs = []
             for chapter_title, docs in chapter_docs.items():

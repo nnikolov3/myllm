@@ -18,6 +18,7 @@ from src.models.processor import PDFProcessor
 from src.utils.resources import ResourceManager
 from src.utils.logging import LogManager, get_logger
 from src.ui.interface import UserInterface
+from src.utils.config_manager import ConfigManager
 
 console = Console()
 
@@ -36,6 +37,7 @@ class PDFChatApplication:
         try:
             console.print("[yellow]Initializing resource manager...[/yellow]")
             self.resource_manager = ResourceManager()
+            self.config_manager = ConfigManager("config.yml")
             console.print("[green]Resource manager initialized[/green]")
         except Exception as e:
             console.print(f"[red]Failed to initialize resource manager: {str(e)}[/red]")
@@ -56,8 +58,6 @@ class PDFChatApplication:
             self.resource_manager.stop_monitoring()
         sys.exit(0)
         
-    # In PDFChatApplication class, update the initialize method:
-
     async def initialize(self, pdf_path: str):
         """Initialize the application with a PDF file."""
         try:
@@ -85,9 +85,10 @@ class PDFChatApplication:
                     return False
                 
                 # Initialize chat system
-                task = progress.add_task("Initializing chat system...", total=1)
+                ttask = progress.add_task("Initializing chat system...", total=1)
+               
                 try:
-                    self.chat = MultiModelChat(self.resource_manager)
+                    self.chat = MultiModelChat(self.resource_manager, self.config_manager)
                     progress.update(task, completed=1)
                 except Exception as e:
                     console.print(f"[red]Error initializing chat system: {str(e)}[/red]")
@@ -95,6 +96,7 @@ class PDFChatApplication:
                 
                 # Load PDF
                 task = progress.add_task(f"Loading PDF: {pdf_path}", total=1)
+                
                 try:
                     docs_generator = self.processor.load_pdf_lazy(pdf_path)
                     progress.update(task, completed=1)
@@ -128,7 +130,7 @@ class PDFChatApplication:
                 # Get statistics
                 try:
                     stats = self.processor.get_chapter_statistics()
-                    console.print(f"[green]Successfully processed {stats['total_chapters']} chapters[/green]")
+                    console.print(f"[green]Successfully processed {len(stats)} chapters[/green]")
                 except Exception as e:
                     console.print(f"[yellow]Warning: Could not get statistics: {str(e)}[/yellow]")
                 

@@ -762,3 +762,1399 @@
 2024-12-25 10:14:12,772 - src.models.processor - INFO - Batch processing complete. Got 462 documents
 2024-12-25 10:14:12,777 - src.models.processor - INFO - After filtering: 450 documents remain
 2024-12-25 10:14:12,787 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 10:27:35,252 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:27:35,255 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:27:35,256 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:27:35,257 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:27:35,258 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:27:35,260 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:27:35,263 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:27:37,039 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:27:37,040 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:27:37,041 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:27:37,042 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:27:37,066 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:27:37,072 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:27:37,073 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:27:37,075 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:27:37,076 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:27:37,112 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:27:37,126 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:27:37,129 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:27:37,133 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:27:37,160 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:27:37,405 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:27:37,449 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:27:37,530 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:27:37,601 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:27:37,696 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:27:37,789 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:27:37,863 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:27:37,979 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:27:37,996 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:27:38,001 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:27:38,003 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:27:38,005 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:27:38,006 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:27:38,007 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:27:38,179 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:27:38,182 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:27:38,183 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:27:38,186 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 10:28:02,446 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:28:02,448 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:28:02,449 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:28:02,450 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:28:02,451 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:28:02,452 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:28:02,458 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:28:04,242 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:28:04,243 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:28:04,244 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:28:04,245 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:28:04,268 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:28:04,275 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:28:04,276 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:28:04,279 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:28:04,281 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:28:04,317 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:28:04,331 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:28:04,333 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:28:04,337 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:28:04,364 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:28:04,608 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:28:04,651 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:28:04,732 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:28:04,801 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:28:04,896 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:28:04,989 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:28:05,063 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:28:05,177 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:28:05,195 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:28:05,200 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:28:05,203 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:28:05,204 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:28:05,205 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:28:05,207 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:28:05,388 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:28:05,391 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:28:05,392 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:28:05,396 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 10:36:59,398 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:36:59,400 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:36:59,401 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:36:59,403 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:36:59,404 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:36:59,405 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:36:59,409 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:37:01,210 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:37:01,211 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:37:01,212 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:37:01,213 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:37:01,237 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:37:01,243 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:37:01,244 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:37:01,247 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:37:01,248 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:37:01,285 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:37:01,299 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:37:01,301 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:37:01,305 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:37:01,333 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:37:01,575 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:37:01,618 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:37:01,702 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:37:01,770 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:37:01,863 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:37:01,955 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:37:02,030 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:37:02,145 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:37:02,163 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:37:02,168 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:37:02,171 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:37:02,172 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:37:02,172 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:37:02,173 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:37:02,366 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:37:02,373 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:37:02,376 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:37:02,382 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 10:44:08,282 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:44:08,284 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:44:08,284 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:44:08,284 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:44:08,284 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:44:08,284 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:44:08,292 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:44:10,091 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:44:10,091 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:44:10,091 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:44:10,091 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:44:10,122 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:44:10,128 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:44:10,130 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:44:10,130 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:44:10,130 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:44:10,169 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:44:10,183 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:44:10,183 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:44:10,183 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:44:10,215 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:44:10,452 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:44:10,500 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:44:10,580 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:44:10,641 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:44:10,737 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:44:10,831 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:44:10,911 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:44:11,021 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:44:11,037 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:44:11,053 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:44:11,053 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:44:11,053 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:44:11,053 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:44:11,053 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:44:11,229 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:44:11,229 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:44:11,229 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:44:11,229 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:45:48,409 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:45:50,209 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:45:50,209 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:45:50,209 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:45:50,209 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:45:50,225 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:45:50,241 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:45:50,241 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:45:50,241 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:45:50,241 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:45:50,273 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:45:50,289 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:45:50,289 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:45:50,289 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:45:50,324 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:45:50,573 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:45:50,605 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:45:50,699 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:45:50,762 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:45:50,856 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:45:50,951 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:45:51,031 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:45:51,140 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:45:51,156 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:45:51,156 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:45:51,156 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:45:51,172 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:45:51,172 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:45:51,172 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:45:51,346 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:45:51,346 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:45:51,346 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:45:51,346 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 10:50:24,212 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:50:24,212 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:50:24,212 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:50:24,224 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:50:24,226 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:50:24,227 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:50:24,230 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:50:26,011 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:50:26,011 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:50:26,011 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:50:26,011 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:50:26,043 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:50:26,043 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:50:26,043 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:50:26,043 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:50:26,043 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:50:26,090 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:50:26,090 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:50:26,106 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:50:26,110 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:50:26,122 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:50:26,375 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:50:26,428 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:50:26,501 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:50:26,580 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:50:26,659 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:50:26,754 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:50:26,832 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:50:26,943 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:50:26,958 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:50:26,975 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:50:26,975 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:50:26,975 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:50:26,975 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:50:26,975 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:50:27,149 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:50:27,149 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:50:27,165 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:50:27,165 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 11:53:55,100 - src.utils.resources - INFO - System Resources:
+2024-12-25 11:53:55,101 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 11:53:55,102 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 11:53:55,103 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 11:53:55,104 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 11:53:55,105 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 11:53:55,109 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 11:53:56,932 - src.models.processor - INFO - Starting document processing
+2024-12-25 11:53:56,933 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 11:53:56,934 - src.models.processor - INFO - Starting batch processing
+2024-12-25 11:53:56,935 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 11:53:56,959 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 11:53:56,967 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 11:53:56,968 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 11:53:56,971 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 11:53:56,973 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 11:53:57,016 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 11:53:57,031 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 11:53:57,031 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 11:53:57,039 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 11:53:57,067 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 11:53:57,318 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 11:53:57,361 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 11:53:57,444 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 11:53:57,520 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 11:53:57,614 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 11:53:57,706 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 11:53:57,786 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 11:53:57,900 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 11:53:57,918 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 11:53:57,922 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 11:53:57,925 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 11:53:57,926 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 11:53:57,929 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 11:53:57,929 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 11:53:58,112 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 11:53:58,116 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 11:53:58,118 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 11:53:58,121 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 11:55:14,178 - src.utils.resources - INFO - System Resources:
+2024-12-25 11:55:14,179 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 11:55:14,181 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 11:55:14,182 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 11:55:14,183 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 11:55:14,184 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 11:55:14,188 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 11:55:16,001 - src.models.processor - INFO - Starting document processing
+2024-12-25 11:55:16,002 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 11:55:16,003 - src.models.processor - INFO - Starting batch processing
+2024-12-25 11:55:16,004 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 11:55:16,027 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 11:55:16,035 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 11:55:16,039 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 11:55:16,041 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 11:55:16,042 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 11:55:16,081 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 11:55:16,095 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 11:55:16,097 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 11:55:16,103 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 11:55:16,131 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 11:55:16,381 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 11:55:16,426 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 11:55:16,506 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 11:55:16,583 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 11:55:16,674 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 11:55:16,769 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 11:55:16,848 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 11:55:16,963 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 11:55:16,982 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 11:55:16,987 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 11:55:16,990 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 11:55:16,991 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 11:55:16,991 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 11:55:16,993 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 11:55:17,179 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 11:55:17,182 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 11:55:17,184 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 11:55:17,187 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 11:59:53,474 - src.utils.resources - INFO - System Resources:
+2024-12-25 11:59:53,476 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 11:59:53,477 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 11:59:53,478 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 11:59:53,480 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 11:59:53,480 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 11:59:53,484 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 11:59:55,313 - src.models.processor - INFO - Starting document processing
+2024-12-25 11:59:55,315 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 11:59:55,316 - src.models.processor - INFO - Starting batch processing
+2024-12-25 11:59:55,317 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 11:59:55,341 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 11:59:55,348 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 11:59:55,350 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 11:59:55,352 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 11:59:55,353 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 11:59:55,390 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 11:59:55,403 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 11:59:55,403 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 11:59:55,415 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 11:59:55,446 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 11:59:55,696 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 11:59:55,742 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 11:59:55,822 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 11:59:55,893 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 11:59:55,994 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 11:59:56,085 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 11:59:56,160 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 11:59:56,283 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 11:59:56,300 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 11:59:56,306 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 11:59:56,309 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 11:59:56,310 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 11:59:56,311 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 11:59:56,312 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 11:59:56,494 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 11:59:56,496 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 11:59:56,498 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 11:59:56,501 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 11:59:57,203 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 12:00:14,141 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 12:06:00,407 - src.utils.resources - INFO - System Resources:
+2024-12-25 12:06:00,409 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 12:06:00,410 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 12:06:00,412 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 12:06:00,413 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 12:06:00,414 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 12:06:00,417 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 12:06:02,251 - src.models.processor - INFO - Starting document processing
+2024-12-25 12:06:02,252 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 12:06:02,253 - src.models.processor - INFO - Starting batch processing
+2024-12-25 12:06:02,254 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 12:06:02,279 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 12:06:02,287 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 12:06:02,288 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 12:06:02,290 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 12:06:02,291 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 12:06:02,330 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 12:06:02,344 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 12:06:02,347 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 12:06:02,352 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 12:06:02,379 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 12:06:02,631 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 12:06:02,674 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 12:06:02,755 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 12:06:02,831 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 12:06:02,922 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 12:06:03,017 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 12:06:03,096 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 12:06:03,210 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 12:06:03,229 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 12:06:03,235 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 12:06:03,237 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 12:06:03,239 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 12:06:03,240 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 12:06:03,241 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 12:06:03,440 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 12:06:03,442 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 12:06:03,444 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 12:06:03,447 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 12:06:04,089 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 12:08:54,120 - src.utils.resources - INFO - System Resources:
+2024-12-25 12:08:54,122 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 12:08:54,123 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 12:08:54,125 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 12:08:54,126 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 12:08:54,126 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 12:08:54,131 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 12:08:55,945 - src.models.processor - INFO - Starting document processing
+2024-12-25 12:08:55,946 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 12:08:55,947 - src.models.processor - INFO - Starting batch processing
+2024-12-25 12:08:55,948 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 12:08:55,971 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 12:08:55,979 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 12:08:55,982 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 12:08:55,984 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 12:08:55,986 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 12:08:56,021 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 12:08:56,036 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 12:08:56,038 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 12:08:56,042 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 12:08:56,075 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 12:08:56,325 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 12:08:56,369 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 12:08:56,451 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 12:08:56,520 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 12:08:56,619 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 12:08:56,715 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 12:08:56,792 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 12:08:56,915 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 12:08:56,933 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 12:08:56,938 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 12:08:56,942 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 12:08:56,943 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 12:08:56,945 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 12:08:56,946 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 12:08:57,122 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 12:08:57,124 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 12:08:57,126 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 12:08:57,129 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 12:08:57,764 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 12:32:11,994 - src.utils.resources - INFO - System Resources:
+2024-12-25 12:32:11,996 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 12:32:11,997 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 12:32:11,999 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 12:32:12,000 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 12:32:12,001 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 12:32:12,006 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 12:32:13,844 - src.models.processor - INFO - Starting document processing
+2024-12-25 12:32:13,846 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 12:32:13,847 - src.models.processor - INFO - Starting batch processing
+2024-12-25 12:32:13,848 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 12:32:13,888 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 12:32:13,895 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 12:32:13,897 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 12:32:13,899 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 12:32:13,901 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 12:32:13,936 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 12:32:13,949 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 12:32:13,951 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 12:32:13,956 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 12:32:13,985 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 12:32:14,233 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 12:32:14,280 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 12:32:14,364 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 12:32:14,435 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 12:32:14,527 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 12:32:14,624 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 12:32:14,699 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 12:32:14,811 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 12:32:14,832 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 12:32:14,837 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 12:32:14,840 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 12:32:14,841 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 12:32:14,843 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 12:32:14,844 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 12:32:15,031 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 12:32:15,033 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 12:32:15,035 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 12:32:15,039 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 12:32:15,680 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 12:33:16,542 - src.utils.resources - INFO - System Resources:
+2024-12-25 12:33:16,544 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 12:33:16,545 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 12:33:16,546 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 12:33:16,547 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 12:33:16,548 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 12:33:16,552 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 12:33:18,397 - src.models.processor - INFO - Starting document processing
+2024-12-25 12:33:18,400 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 12:33:18,402 - src.models.processor - INFO - Starting batch processing
+2024-12-25 12:33:18,403 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 12:33:18,428 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 12:33:18,435 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 12:33:18,437 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 12:33:18,439 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 12:33:18,440 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 12:33:18,475 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 12:33:18,489 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 12:33:18,492 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 12:33:18,495 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 12:33:18,525 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 12:33:18,774 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 12:33:18,819 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 12:33:18,903 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 12:33:18,975 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 12:33:19,068 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 12:33:19,166 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 12:33:19,241 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 12:33:19,357 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 12:33:19,375 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 12:33:19,380 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 12:33:19,382 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 12:33:19,384 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 12:33:19,385 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 12:33:19,386 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 12:33:19,562 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 12:33:19,565 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 12:33:19,567 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 12:33:19,570 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 12:34:12,979 - src.utils.resources - INFO - System Resources:
+2024-12-25 12:34:12,980 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 12:34:12,981 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 12:34:12,982 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 12:34:12,983 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 12:34:12,984 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 12:34:12,988 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 12:34:14,797 - src.models.processor - INFO - Starting document processing
+2024-12-25 12:34:14,798 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 12:34:14,799 - src.models.processor - INFO - Starting batch processing
+2024-12-25 12:34:14,800 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 12:34:14,824 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 12:34:14,831 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 12:34:14,832 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 12:34:14,834 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 12:34:14,836 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 12:34:14,873 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 12:34:14,891 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 12:34:14,894 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 12:34:14,899 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 12:34:14,926 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 12:34:15,175 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 12:34:15,218 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 12:34:15,300 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 12:34:15,370 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 12:34:15,468 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 12:34:15,562 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 12:34:15,641 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 12:34:15,756 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 12:34:15,774 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 12:34:15,779 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 12:34:15,782 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 12:34:15,783 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 12:34:15,784 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 12:34:15,785 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 12:34:15,964 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 12:34:15,966 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 12:34:15,968 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 12:34:15,971 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 12:34:16,602 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:25:59,650 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:25:59,653 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:25:59,653 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:25:59,653 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:25:59,653 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:25:59,653 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:25:59,653 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:25:59,666 - __main__ - ERROR - Initialization error: cannot access local variable 'processed_docs' where it is not associated with a value
+2024-12-25 13:29:31,413 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:29:31,420 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:29:31,421 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:29:31,422 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:29:31,423 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:29:31,425 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:29:31,430 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:29:33,266 - src.models.processor - INFO - Starting document processing
+2024-12-25 13:29:33,281 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 13:29:33,282 - src.models.processor - INFO - Starting batch processing
+2024-12-25 13:29:33,283 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 13:29:33,325 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 13:29:33,333 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 13:29:33,334 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 13:29:33,335 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 13:29:33,335 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 13:29:33,386 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 13:29:33,398 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 13:29:33,398 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 13:29:33,398 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 13:29:33,432 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 13:29:33,696 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 13:29:33,746 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 13:29:33,835 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 13:29:33,921 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 13:29:34,023 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 13:29:34,134 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 13:29:34,218 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 13:29:34,335 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 13:29:34,363 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 13:29:34,363 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 13:29:34,363 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 13:29:34,363 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 13:29:34,363 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 13:29:34,378 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 13:29:34,564 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 13:29:34,564 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 13:29:34,564 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 13:29:34,564 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 13:29:35,225 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:37:08,053 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:37:08,054 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:37:08,055 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:37:08,056 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:37:08,058 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:37:08,059 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:37:08,062 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:37:09,853 - src.models.processor - INFO - Starting document processing
+2024-12-25 13:37:09,855 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 13:37:09,856 - src.models.processor - INFO - Starting batch processing
+2024-12-25 13:37:09,857 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 13:37:09,881 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 13:37:09,888 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 13:37:09,889 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 13:37:09,891 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 13:37:09,892 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 13:37:09,927 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 13:37:09,941 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 13:37:09,943 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 13:37:09,949 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 13:37:09,976 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 13:37:10,221 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 13:37:10,264 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 13:37:10,347 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 13:37:10,418 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 13:37:10,510 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 13:37:10,605 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 13:37:10,679 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 13:37:10,797 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 13:37:10,817 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 13:37:10,822 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 13:37:10,825 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 13:37:10,827 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 13:37:10,828 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 13:37:10,829 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 13:37:11,031 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 13:37:11,035 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 13:37:11,038 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 13:37:11,044 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 13:37:11,682 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:37:11,874 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,876 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,877 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,879 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,880 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,881 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,882 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,882 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,884 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,885 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,886 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,887 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,888 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,889 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,890 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,891 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,893 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,894 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,895 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,896 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,897 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,898 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,899 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,901 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,902 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,903 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,904 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,905 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,906 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,907 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,908 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,910 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,911 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,912 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,913 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,914 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,915 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,917 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,917 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,918 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,920 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,921 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,922 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,924 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,924 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,926 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,927 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,928 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,929 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,930 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,931 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,932 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,934 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,935 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,936 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,937 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,938 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,939 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,940 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,941 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,943 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,944 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,945 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,946 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,947 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,948 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,949 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,950 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,952 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,953 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,954 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,955 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,956 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,957 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,959 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,960 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,961 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,962 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,963 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,964 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,967 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,969 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,970 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,971 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,972 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,973 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,974 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,975 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,977 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,978 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,979 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,980 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,981 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,982 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,983 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,984 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,985 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,987 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,988 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,989 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,990 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,991 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,992 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,994 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,995 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,996 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,997 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,998 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:11,999 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,000 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,001 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,003 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,004 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,005 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,006 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,007 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,007 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,008 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,009 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,011 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,012 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,013 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,014 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,015 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,016 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,017 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,019 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,020 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,021 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,022 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,023 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,024 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,025 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,026 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,028 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,029 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,030 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,031 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,032 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,033 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,035 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,036 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,037 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,038 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,039 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,040 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,042 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,042 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,044 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,045 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,046 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,047 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,048 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,049 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,050 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,051 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,053 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,054 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,055 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,056 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,057 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,058 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,059 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,060 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,061 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,063 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,064 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,065 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,066 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,067 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,068 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,071 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,072 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,073 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,074 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,076 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,077 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,078 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,079 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,080 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,081 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,082 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,084 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,085 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,086 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,087 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,088 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,089 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,091 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,092 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,093 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,094 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,095 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,096 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,097 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,098 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,100 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,101 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,102 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,103 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,104 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,105 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,106 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,107 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,108 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,110 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,111 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,112 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,113 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,114 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,115 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,116 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,117 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,119 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,120 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,121 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,122 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,123 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,124 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,126 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,127 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,128 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,129 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,130 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,131 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,132 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,132 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,135 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,136 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,137 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,138 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,139 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,139 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,142 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,143 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,144 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,145 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,146 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,146 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,148 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,149 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,150 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,151 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,152 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,153 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,154 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,155 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,156 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,158 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,159 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,160 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,161 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,162 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,163 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,164 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,165 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,167 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,168 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,169 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,170 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,171 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,172 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,175 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,176 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,178 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,179 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,180 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,181 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,182 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,183 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,184 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,186 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,187 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,188 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,189 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,190 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,191 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,192 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,193 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,195 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,196 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,197 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,198 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,199 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,200 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,202 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,203 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,204 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,205 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,206 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,207 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,209 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,209 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,211 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,212 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,213 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,214 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,215 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,216 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,217 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,218 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,220 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,221 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,222 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,223 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,224 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,225 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,226 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,227 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,229 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,230 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,231 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,232 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,233 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,234 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,235 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,237 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,238 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,239 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,240 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,241 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,242 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,244 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,245 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,246 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,247 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,248 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,249 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,250 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,251 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,252 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,253 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,254 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,255 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,256 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,257 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,259 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,260 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,262 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,263 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,264 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,264 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,265 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,266 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,267 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,268 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,270 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,271 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,272 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,273 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,274 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,275 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,276 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,279 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,280 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,282 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,283 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,284 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,285 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,286 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,287 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,288 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,289 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,291 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,292 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,293 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,294 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,295 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,296 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,297 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,299 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,300 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,301 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,302 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,303 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,304 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,306 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,307 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,308 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,309 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,310 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,311 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,313 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,314 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,315 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,316 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,317 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,318 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,319 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,320 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,321 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,322 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,323 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,325 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,326 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,327 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,328 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,329 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,330 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,331 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,332 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,334 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,335 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,336 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,337 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,338 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,339 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,341 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,342 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,343 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,344 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,345 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,346 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,348 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,349 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,350 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,351 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,352 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,353 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,354 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,355 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,356 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,358 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,359 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,360 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,361 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,362 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,364 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,365 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,366 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,368 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,369 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,371 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,372 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,373 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,374 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,375 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,376 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,377 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,378 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,379 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,381 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,382 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,384 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,386 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,387 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,388 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,389 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,389 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:12,391 - src.models.chat - ERROR - Error filtering document metadata: 'tuple' object has no attribute 'metadata'
+2024-12-25 13:37:14,230 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 13:37:14,232 - src.models.chat - ERROR - Error initializing context manager: Expected Embedings to be non-empty list or numpy array, got [] in upsert.
+2024-12-25 13:44:09,129 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:44:09,131 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:44:09,132 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:44:09,133 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:44:09,134 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:44:09,135 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:44:09,139 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:44:10,975 - src.models.processor - INFO - Starting document processing
+2024-12-25 13:44:10,977 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 13:44:10,978 - src.models.processor - INFO - Starting batch processing
+2024-12-25 13:44:10,978 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 13:44:11,003 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 13:44:11,009 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 13:44:11,012 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 13:44:11,013 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 13:44:11,015 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 13:44:11,050 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 13:44:11,064 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 13:44:11,066 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 13:44:11,070 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 13:44:11,098 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 13:44:11,343 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 13:44:11,388 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 13:44:11,468 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 13:44:11,538 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 13:44:11,633 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 13:44:11,726 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 13:44:11,800 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 13:44:11,914 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 13:44:11,932 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 13:44:11,937 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 13:44:11,940 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 13:44:11,941 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 13:44:11,943 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 13:44:11,944 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 13:44:12,130 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 13:44:12,133 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 13:44:12,135 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 13:44:12,138 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 13:44:12,767 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:44:27,019 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 13:44:27,784 - src.models.chat - ERROR - Error initializing context manager: object list can't be used in 'await' expression
+2024-12-25 13:48:35,500 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:48:35,502 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:48:35,503 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:48:35,504 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:48:35,505 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:48:35,506 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:48:35,511 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:48:37,282 - src.models.processor - INFO - Starting document processing
+2024-12-25 13:48:37,284 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 13:48:37,285 - src.models.processor - INFO - Starting batch processing
+2024-12-25 13:48:37,286 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 13:48:37,310 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 13:48:37,319 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 13:48:37,321 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 13:48:37,323 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 13:48:37,324 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 13:48:37,360 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 13:48:37,374 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 13:48:37,376 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 13:48:37,381 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 13:48:37,407 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 13:48:37,651 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 13:48:37,697 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 13:48:37,777 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 13:48:37,848 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 13:48:37,941 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 13:48:38,034 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 13:48:38,109 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 13:48:38,223 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 13:48:38,241 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 13:48:38,246 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 13:48:38,248 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 13:48:38,249 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 13:48:38,250 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 13:48:38,255 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 13:48:38,468 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 13:48:38,474 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 13:48:38,478 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 13:48:38,483 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 13:48:39,111 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:48:52,702 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 13:48:53,449 - src.models.chat - ERROR - Error initializing context manager: object list can't be used in 'await' expression
+2024-12-25 13:49:15,848 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:49:15,851 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:49:15,852 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:49:15,853 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:49:15,854 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:49:15,855 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:49:15,859 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:49:17,637 - src.models.processor - INFO - Starting document processing
+2024-12-25 13:49:17,639 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 13:49:17,640 - src.models.processor - INFO - Starting batch processing
+2024-12-25 13:49:17,641 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 13:49:17,665 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 13:49:17,671 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 13:49:17,672 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 13:49:17,674 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 13:49:17,676 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 13:49:17,711 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 13:49:17,725 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 13:49:17,730 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 13:49:17,733 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 13:49:17,761 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 13:49:18,009 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 13:49:18,053 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 13:49:18,137 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 13:49:18,206 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 13:49:18,302 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 13:49:18,399 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 13:49:18,473 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 13:49:18,590 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 13:49:18,607 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 13:49:18,612 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 13:49:18,614 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 13:49:18,615 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 13:49:18,617 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 13:49:18,618 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 13:49:18,797 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 13:49:18,799 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 13:49:18,802 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 13:49:18,805 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 13:49:19,426 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:49:32,903 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 13:49:33,664 - src.models.chat - ERROR - Error initializing context manager: object list can't be used in 'await' expression
+2024-12-25 13:53:55,197 - src.utils.resources - INFO - System Resources:
+2024-12-25 13:53:55,199 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 13:53:55,201 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 13:53:55,202 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 13:53:55,203 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 13:53:55,204 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 13:53:55,208 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 13:53:57,022 - src.models.processor - INFO - Starting document processing
+2024-12-25 13:53:57,023 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 13:53:57,024 - src.models.processor - INFO - Starting batch processing
+2024-12-25 13:53:57,025 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 13:53:57,048 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 13:53:57,056 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 13:53:57,058 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 13:53:57,059 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 13:53:57,061 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 13:53:57,098 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 13:53:57,112 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 13:53:57,115 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 13:53:57,118 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 13:53:57,145 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 13:53:57,391 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 13:53:57,435 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 13:53:57,517 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 13:53:57,589 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 13:53:57,681 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 13:53:57,777 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 13:53:57,853 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 13:53:57,965 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 13:53:57,986 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 13:53:57,990 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 13:53:57,993 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 13:53:57,994 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 13:53:57,995 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 13:53:57,997 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 13:53:58,186 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 13:53:58,190 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 13:53:58,191 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 13:53:58,195 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 13:53:58,823 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 13:54:12,569 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 13:54:13,323 - src.models.chat - INFO - Successfully added 450 documents to vectorstore
+2024-12-25 13:54:37,784 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 13:54:37,813 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 404 Not Found"
+2024-12-25 13:54:37,815 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 404 Not Found"
+2024-12-25 13:54:37,817 - src.models.chat - ERROR - Error with model llama: model 'llama2:latest' not found
+2024-12-25 13:54:37,819 - src.models.chat - ERROR - Error with model granite: model 'granite:latest' not found
+2024-12-25 13:54:41,766 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:12:50,325 - src.utils.resources - INFO - System Resources:
+2024-12-25 14:12:50,325 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 14:12:50,325 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 14:12:50,325 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 14:12:50,325 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 14:12:50,325 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 14:21:47,397 - src.utils.resources - INFO - System Resources:
+2024-12-25 14:21:47,399 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 14:21:47,400 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 14:21:47,402 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 14:21:47,404 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 14:21:47,405 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 14:21:47,408 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 14:21:47,415 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<ResourceMonitor.start_monitoring() done, defined at C:\Users\nikol\MyDev\myllm\src\utils\resources.py:47> exception=AttributeError("'ResourceMonitor' object has no attribute 'monitor'")>
+Traceback (most recent call last):
+  File "C:\Users\nikol\MyDev\myllm\src\utils\resources.py", line 49, in start_monitoring
+    await self.monitor.start_monitoring()  # Delegate to the monitor
+          ^^^^^^^^^^^^
+AttributeError: 'ResourceMonitor' object has no attribute 'monitor'
+2024-12-25 14:25:50,049 - src.utils.resources - INFO - System Resources:
+2024-12-25 14:25:50,051 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 14:25:50,052 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 14:25:50,054 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 14:25:50,055 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 14:25:50,056 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 14:25:50,066 - src.utils.config_manager - INFO - Configuration loaded successfully
+2024-12-25 14:25:50,071 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 14:25:50,675 - src.models.chat - INFO - Initialized model: mistral (mistral:latest)
+2024-12-25 14:25:51,271 - src.models.chat - INFO - Initialized model: llama (llama3.2:latest)
+2024-12-25 14:25:51,865 - src.models.chat - INFO - Initialized model: granite (granite3.1-dense:8b)
+2024-12-25 14:25:51,871 - src.models.processor - INFO - Starting document processing
+2024-12-25 14:25:51,872 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 14:25:51,873 - src.models.processor - INFO - Starting batch processing
+2024-12-25 14:25:51,874 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 14:25:51,898 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 14:25:51,905 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 14:25:51,906 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 14:25:51,908 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 14:25:51,909 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 14:25:51,945 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 14:25:51,961 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 14:25:51,963 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 14:25:51,967 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 14:25:51,994 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 14:25:52,240 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 14:25:52,283 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 14:25:52,365 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 14:25:52,434 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 14:25:52,530 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 14:25:52,626 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 14:25:52,701 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 14:25:52,816 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 14:25:52,834 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 14:25:52,839 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 14:25:52,841 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 14:25:52,842 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 14:25:52,843 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 14:25:52,844 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 14:25:53,021 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 14:25:53,022 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 14:25:53,024 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 14:25:53,028 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 14:25:53,658 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 14:26:09,480 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 14:26:10,232 - src.models.chat - INFO - Added 450 documents to vectorstore
+2024-12-25 14:26:12,326 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:26:20,409 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:26:28,106 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:27:04,200 - src.models.chat - INFO - System health check: {'mistral': True, 'llama': True, 'granite': True}
+2024-12-25 14:27:05,271 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 14:27:05,277 - src.models.chat - ERROR - Error in chat response: 'ModelConfig' object has no attribute 'get'
+2024-12-25 14:27:05,279 - __main__ - ERROR - Query processing error: 'ModelConfig' object has no attribute 'get'
+2024-12-25 14:27:52,181 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 14:27:52,187 - src.models.chat - ERROR - Error in chat response: 'ModelConfig' object has no attribute 'get'
+2024-12-25 14:27:52,188 - __main__ - ERROR - Query processing error: 'ModelConfig' object has no attribute 'get'
+2024-12-25 14:32:14,492 - src.utils.resources - INFO - System Resources:
+2024-12-25 14:32:14,494 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 14:32:14,495 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 14:32:14,496 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 14:32:14,497 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 14:32:14,498 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 14:32:14,501 - src.utils.config_manager - INFO - Configuration loaded successfully
+2024-12-25 14:32:14,505 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 14:32:15,108 - src.models.chat - INFO - Initialized model: mistral (mistral:latest)
+2024-12-25 14:32:15,705 - src.models.chat - INFO - Initialized model: llama (llama3.2:latest)
+2024-12-25 14:32:16,299 - src.models.chat - INFO - Initialized model: granite (granite3.1-dense:8b)
+2024-12-25 14:32:16,305 - src.models.processor - INFO - Starting document processing
+2024-12-25 14:32:16,307 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 14:32:16,308 - src.models.processor - INFO - Starting batch processing
+2024-12-25 14:32:16,309 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 14:32:16,334 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 14:32:16,340 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 14:32:16,341 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 14:32:16,343 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 14:32:16,345 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 14:32:16,381 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 14:32:16,394 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 14:32:16,397 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 14:32:16,402 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 14:32:16,430 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 14:32:16,674 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 14:32:16,719 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 14:32:16,802 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 14:32:16,870 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 14:32:16,964 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 14:32:17,059 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 14:32:17,134 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 14:32:17,249 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 14:32:17,267 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 14:32:17,272 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 14:32:17,274 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 14:32:17,276 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 14:32:17,277 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 14:32:17,278 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 14:32:17,457 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 14:32:17,461 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 14:32:17,463 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 14:32:17,467 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
+2024-12-25 14:32:18,091 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-25 14:32:32,127 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 14:32:32,878 - src.models.chat - INFO - Added 450 documents to vectorstore
+2024-12-25 14:32:34,949 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:32:42,939 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:32:48,475 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:33:04,559 - src.models.chat - INFO - System health check: {'mistral': True, 'llama': True, 'granite': True}
+2024-12-25 14:33:19,609 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2024-12-25 14:33:22,951 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:33:31,993 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2024-12-25 14:33:39,525 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
