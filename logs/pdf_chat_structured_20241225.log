@@ -1,0 +1,764 @@
+{"timestamp": "2024-12-25T09:30:55.447006", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:30:55.450446", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:30:55.452446", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:30:55.454588", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:30:55.455611", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:30:55.456612", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:33:05.973021", "level": "INFO", "module": "main", "function": "_handle_interrupt", "line": 35, "message": "Received interrupt signal, cleaning up..."}
+{"timestamp": "2024-12-25T09:35:25.586692", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:35:25.588966", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:35:25.589334", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:35:25.590340", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:35:25.592119", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:35:25.593124", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:36:51.625986", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:36:51.628031", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:36:51.629085", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:36:51.630074", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:36:51.631042", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:36:51.632038", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:39:07.364049", "level": "INFO", "module": "main", "function": "handle_interrupt", "line": 54, "message": "Received interrupt signal, cleaning up..."}
+{"timestamp": "2024-12-25T09:40:33.568329", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:40:33.569365", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:40:33.570332", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:40:33.572331", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:40:33.573331", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:40:33.574331", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:42:31.882237", "level": "INFO", "module": "main", "function": "handle_interrupt", "line": 54, "message": "Received interrupt signal, cleaning up..."}
+{"timestamp": "2024-12-25T09:46:53.694209", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:46:53.696209", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:46:53.697110", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:46:53.698367", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:46:53.700045", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:46:53.701051", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:46:53.705183", "level": "INFO", "module": "resources", "function": "start_monitoring", "line": 132, "message": "Resource monitoring started"}
+{"timestamp": "2024-12-25T09:46:55.971887", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "incorrect startxref pointer(1)"}
+{"timestamp": "2024-12-25T09:46:56.187093", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "parsing for Object Streams"}
+{"timestamp": "2024-12-25T09:46:56.196187", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13330,0) whereas 176 expected"}
+{"timestamp": "2024-12-25T09:46:56.205955", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13331,0) whereas 91 expected"}
+{"timestamp": "2024-12-25T09:46:56.210067", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13332,0) whereas 108 expected"}
+{"timestamp": "2024-12-25T09:46:56.214938", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13333,0) whereas 118 expected"}
+{"timestamp": "2024-12-25T09:46:56.224808", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13334,0) whereas 142 expected"}
+{"timestamp": "2024-12-25T09:46:56.226781", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13335,0) whereas 1 expected"}
+{"timestamp": "2024-12-25T09:46:56.231701", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13336,0) whereas 16 expected"}
+{"timestamp": "2024-12-25T09:46:56.238677", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13337,0) whereas 199 expected"}
+{"timestamp": "2024-12-25T09:46:56.244639", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13338,0) whereas 38 expected"}
+{"timestamp": "2024-12-25T09:46:56.247608", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13339,0) whereas 1 expected"}
+{"timestamp": "2024-12-25T09:46:56.256555", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13340,0) whereas 132 expected"}
+{"timestamp": "2024-12-25T09:46:56.260553", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13341,0) whereas 25 expected"}
+{"timestamp": "2024-12-25T09:46:56.265457", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13342,0) whereas 96 expected"}
+{"timestamp": "2024-12-25T09:46:56.270445", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13343,0) whereas 62 expected"}
+{"timestamp": "2024-12-25T09:46:56.274402", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13344,0) whereas 42 expected"}
+{"timestamp": "2024-12-25T09:46:56.283018", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13345,0) whereas 190 expected"}
+{"timestamp": "2024-12-25T09:46:56.294188", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13346,0) whereas 198 expected"}
+{"timestamp": "2024-12-25T09:46:56.295777", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13347,0) whereas 1 expected"}
+{"timestamp": "2024-12-25T09:46:56.298734", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13348,0) whereas 6 expected"}
+{"timestamp": "2024-12-25T09:46:56.303162", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13349,0) whereas 116 expected"}
+{"timestamp": "2024-12-25T09:46:56.313906", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13350,0) whereas 194 expected"}
+{"timestamp": "2024-12-25T09:46:56.321340", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13351,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.331878", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13352,0) whereas 193 expected"}
+{"timestamp": "2024-12-25T09:46:56.337154", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13353,0) whereas 118 expected"}
+{"timestamp": "2024-12-25T09:46:56.338585", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13354,0) whereas 1 expected"}
+{"timestamp": "2024-12-25T09:46:56.346857", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13355,0) whereas 186 expected"}
+{"timestamp": "2024-12-25T09:46:56.355871", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13356,0) whereas 183 expected"}
+{"timestamp": "2024-12-25T09:46:56.362138", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13357,0) whereas 107 expected"}
+{"timestamp": "2024-12-25T09:46:56.371674", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13358,0) whereas 189 expected"}
+{"timestamp": "2024-12-25T09:46:56.373348", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13359,0) whereas 3 expected"}
+{"timestamp": "2024-12-25T09:46:56.378639", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13360,0) whereas 79 expected"}
+{"timestamp": "2024-12-25T09:46:56.384560", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13361,0) whereas 103 expected"}
+{"timestamp": "2024-12-25T09:46:56.402397", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13362,0) whereas 199 expected"}
+{"timestamp": "2024-12-25T09:46:56.404410", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13363,0) whereas 1 expected"}
+{"timestamp": "2024-12-25T09:46:56.408068", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13364,0) whereas 9 expected"}
+{"timestamp": "2024-12-25T09:46:56.423291", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13365,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.427285", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13366,0) whereas 32 expected"}
+{"timestamp": "2024-12-25T09:46:56.429212", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13367,0) whereas 1 expected"}
+{"timestamp": "2024-12-25T09:46:56.430727", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13368,0) whereas 3 expected"}
+{"timestamp": "2024-12-25T09:46:56.434731", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13369,0) whereas 24 expected"}
+{"timestamp": "2024-12-25T09:46:56.437236", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13370,0) whereas 2 expected"}
+{"timestamp": "2024-12-25T09:46:56.453951", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13371,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.459124", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13372,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.466947", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13373,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.473015", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13374,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.478619", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13375,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.483618", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13376,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.489598", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13377,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.494631", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13378,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.500560", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13379,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.506600", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13380,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.511561", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13381,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.517475", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13382,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.523425", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13383,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.528564", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13384,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.534572", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13385,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.539979", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13386,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.546290", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13387,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.552279", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13388,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.557143", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13389,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.563209", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13390,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.570576", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13391,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.576172", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13392,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.581618", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13393,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.587913", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13394,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.592892", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13395,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.599158", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13396,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.605014", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13397,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.610797", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13398,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.616387", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13399,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.622116", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13400,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.637561", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13401,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.654294", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13402,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.670337", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13403,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:56.688033", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "found 0 objects within Object(13404,0) whereas 200 expected"}
+{"timestamp": "2024-12-25T09:46:57.428163", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "Cannot find \"/Root\" key in trailer"}
+{"timestamp": "2024-12-25T09:46:57.430032", "level": "WARNING", "module": "_utils", "function": "logger_warning", "line": 434, "message": "Searching object with \"/Catalog\" key"}
+{"timestamp": "2024-12-25T09:46:57.431076", "level": "ERROR", "module": "processor", "function": "process_documents", "line": 196, "message": "Error in document processing: Cannot find Root object in pdf"}
+{"timestamp": "2024-12-25T09:51:18.849748", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:51:18.851773", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:51:18.852784", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:51:18.853744", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:51:18.854485", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:51:18.856198", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:51:18.859395", "level": "INFO", "module": "resources", "function": "start_monitoring", "line": 132, "message": "Resource monitoring started"}
+{"timestamp": "2024-12-25T09:51:20.646427", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.648430", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.649431", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.650072", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.652078", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.653077", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.654308", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.655308", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.657308", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.658307", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.659308", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.659986", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.662193", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.663193", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.664192", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.665192", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.666953", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.668175", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.669176", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.670175", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.672175", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.673175", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.674509", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.675562", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.676544", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.678548", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.679545", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.680880", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.682142", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.683100", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.685129", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.686129", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.687825", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.689111", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.690078", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.691108", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.692078", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.694114", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.694835", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.696169", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.697120", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.699149", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.700145", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.701674", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.702987", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.703987", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.704986", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.706986", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.707985", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.708637", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.710908", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.711908", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.712909", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.714908", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.715536", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.716763", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.717762", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.719762", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.720762", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.722466", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.723677", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.724674", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.725674", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.727675", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.728674", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.729427", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.730657", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.732654", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.733654", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.734654", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.736328", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.739543", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.740540", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.742541", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.743602", "level": "WARNING", "module": "pdftypes", "function": "decompress_corrupted", "line": 242, "message": "Data-loss while decompressing corrupted data"}
+{"timestamp": "2024-12-25T09:51:20.982739", "level": "ERROR", "module": "processor", "function": "process_documents", "line": 227, "message": "Error in document processing: No /Root object! - Is this really a PDF?"}
+{"timestamp": "2024-12-25T09:56:00.686659", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:56:00.689002", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:56:00.689433", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:56:00.691692", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:56:00.692041", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:56:00.693048", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:56:00.696647", "level": "INFO", "module": "resources", "function": "start_monitoring", "line": 132, "message": "Resource monitoring started"}
+{"timestamp": "2024-12-25T09:56:03.626997", "level": "INFO", "module": "indexer", "function": "index_document", "line": 112, "message": "Starting document indexing"}
+{"timestamp": "2024-12-25T09:56:03.629849", "level": "INFO", "module": "indexer", "function": "index_document", "line": 145, "message": "Indexed 0 chapters"}
+{"timestamp": "2024-12-25T09:56:03.631849", "level": "INFO", "module": "processor", "function": "process_documents", "line": 225, "message": "Processed 0 paragraphs across 0 chapters"}
+{"timestamp": "2024-12-25T09:59:36.954775", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T09:59:36.956226", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T09:59:36.958492", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T09:59:36.959533", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T09:59:36.960498", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T09:59:36.961529", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T09:59:36.965527", "level": "INFO", "module": "resources", "function": "start_monitoring", "line": 132, "message": "Resource monitoring started"}
+{"timestamp": "2024-12-25T09:59:38.761970", "level": "INFO", "module": "processor", "function": "process_documents", "line": 235, "message": "Starting document processing"}
+{"timestamp": "2024-12-25T09:59:38.764241", "level": "INFO", "module": "processor", "function": "process_documents", "line": 238, "message": "Beginning batch processing"}
+{"timestamp": "2024-12-25T09:59:38.764241", "level": "INFO", "module": "processor", "function": "process_in_batches", "line": 75, "message": "Starting batch processing"}
+{"timestamp": "2024-12-25T09:59:38.766276", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 171, "message": "Starting PDF load: .\\mybooks\\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf"}
+{"timestamp": "2024-12-25T09:59:38.790931", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 174, "message": "PDF opened successfully. Total pages: 482"}
+{"timestamp": "2024-12-25T09:59:38.797898", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 177, "message": "Table of contents entries: 280"}
+{"timestamp": "2024-12-25T09:59:38.798905", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 184, "message": "Found 214 chapter mappings"}
+{"timestamp": "2024-12-25T09:59:38.801623", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 1 is empty"}
+{"timestamp": "2024-12-25T09:59:38.802668", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 2 is empty"}
+{"timestamp": "2024-12-25T09:59:38.838143", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 4 is empty"}
+{"timestamp": "2024-12-25T09:59:38.853476", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 8 is empty"}
+{"timestamp": "2024-12-25T09:59:38.855464", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: ABOUT THE AUTHOR on page 9"}
+{"timestamp": "2024-12-25T09:59:38.857463", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 10 is empty"}
+{"timestamp": "2024-12-25T09:59:38.860445", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: BRIEF CONTENTS on page 11"}
+{"timestamp": "2024-12-25T09:59:38.862444", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 12 is empty"}
+{"timestamp": "2024-12-25T09:59:38.866042", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CONTENTS IN DETAIL on page 13"}
+{"timestamp": "2024-12-25T09:59:38.889215", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: FOREWORD on page 21"}
+{"timestamp": "2024-12-25T09:59:38.892213", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: ACKNOWLEDGMENTS on page 23"}
+{"timestamp": "2024-12-25T09:59:38.893795", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 24 is empty"}
+{"timestamp": "2024-12-25T09:59:38.899685", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: What We'll Do on page 25"}
+{"timestamp": "2024-12-25T09:59:38.904057", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: New to the Second Edition on page 26"}
+{"timestamp": "2024-12-25T09:59:38.907702", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Who This Book Is For on page 27"}
+{"timestamp": "2024-12-25T09:59:38.910953", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Static Keyword on page 28"}
+{"timestamp": "2024-12-25T09:59:38.914573", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Topic Selection on page 29"}
+{"timestamp": "2024-12-25T09:59:38.918329", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Programming Judges on page 30"}
+{"timestamp": "2024-12-25T09:59:38.922830", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Anatomy of a Problem Description on page 32"}
+{"timestamp": "2024-12-25T09:59:38.925829", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 33"}
+{"timestamp": "2024-12-25T09:59:38.928491", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving the Problem on page 34"}
+{"timestamp": "2024-12-25T09:59:38.932771", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 36"}
+{"timestamp": "2024-12-25T09:59:38.938881", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Unique Snowflakes on page 37"}
+{"timestamp": "2024-12-25T09:59:38.943673", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 38"}
+{"timestamp": "2024-12-25T09:59:38.949297", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Simplifying the Problem on page 40"}
+{"timestamp": "2024-12-25T09:59:38.951512", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving the Core Problem on page 41"}
+{"timestamp": "2024-12-25T09:59:38.957468", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Pairwise Comparisons on page 44"}
+{"timestamp": "2024-12-25T09:59:38.967406", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Doing Less Work on page 48"}
+{"timestamp": "2024-12-25T09:59:38.977319", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Hash Table Design on page 53"}
+{"timestamp": "2024-12-25T09:59:38.984027", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 56"}
+{"timestamp": "2024-12-25T09:59:38.986441", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Looking at All Passwords on page 57"}
+{"timestamp": "2024-12-25T09:59:38.991015", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Using a Hash Table on page 59"}
+{"timestamp": "2024-12-25T09:59:39.000191", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 65"}
+{"timestamp": "2024-12-25T09:59:39.003189", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Thinking About Hash Tables on page 66"}
+{"timestamp": "2024-12-25T09:59:39.009104", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: An Ad Hoc Solution on page 68"}
+{"timestamp": "2024-12-25T09:59:39.015964", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 71"}
+{"timestamp": "2024-12-25T09:59:39.021928", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Halloween Haul on page 73"}
+{"timestamp": "2024-12-25T09:59:39.024928", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 74"}
+{"timestamp": "2024-12-25T09:59:39.027821", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Binary Trees on page 75"}
+{"timestamp": "2024-12-25T09:59:39.032975", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Representing Binary Trees on page 77"}
+{"timestamp": "2024-12-25T09:59:39.042909", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Collecting All the Candy on page 82"}
+{"timestamp": "2024-12-25T09:59:39.052939", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Completely Different Solution on page 87"}
+{"timestamp": "2024-12-25T09:59:39.065389", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Walking the Minimum Number of Streets on page 92"}
+{"timestamp": "2024-12-25T09:59:39.071430", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 95"}
+{"timestamp": "2024-12-25T09:59:39.082896", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Why Use Recursion? on page 101"}
+{"timestamp": "2024-12-25T09:59:39.085901", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 102"}
+{"timestamp": "2024-12-25T09:59:39.090370", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 104"}
+{"timestamp": "2024-12-25T09:59:39.096361", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Number of Descendants from One Node on page 108"}
+{"timestamp": "2024-12-25T09:59:39.099402", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Number of Descendants from All Nodes on page 109"}
+{"timestamp": "2024-12-25T09:59:39.102075", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Sorting Nodes on page 110"}
+{"timestamp": "2024-12-25T09:59:39.104359", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 111"}
+{"timestamp": "2024-12-25T09:59:39.107358", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 112"}
+{"timestamp": "2024-12-25T09:59:39.113346", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 3: MEMOIZATION AND DYNAMIC PROGRAMMING on page 113"}
+{"timestamp": "2024-12-25T09:59:39.115967", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Forming a Plan on page 114"}
+{"timestamp": "2024-12-25T09:59:39.120613", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Characterizing Optimal Solutions on page 116"}
+{"timestamp": "2024-12-25T09:59:39.124663", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 117"}
+{"timestamp": "2024-12-25T09:59:39.134127", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Memoization on page 122"}
+{"timestamp": "2024-12-25T09:59:39.142036", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 3: Dynamic Programming on page 127"}
+{"timestamp": "2024-12-25T09:59:39.150005", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Memoization and Dynamic Programming on page 130"}
+{"timestamp": "2024-12-25T09:59:39.153418", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 1: Structure of Optimal Solutions on page 131"}
+{"timestamp": "2024-12-25T09:59:39.157427", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 3: Memoization on page 132"}
+{"timestamp": "2024-12-25T09:59:39.159953", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 4: Dynamic Programming on page 133"}
+{"timestamp": "2024-12-25T09:59:39.162954", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 134"}
+{"timestamp": "2024-12-25T09:59:39.165780", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Characterizing Optimal Solutions on page 135"}
+{"timestamp": "2024-12-25T09:59:39.170778", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 137"}
+{"timestamp": "2024-12-25T09:59:39.178432", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 141"}
+{"timestamp": "2024-12-25T09:59:39.181189", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Memoization on page 142"}
+{"timestamp": "2024-12-25T09:59:39.184598", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 3: Hockey Rivalry on page 144"}
+{"timestamp": "2024-12-25T09:59:39.189780", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 145"}
+{"timestamp": "2024-12-25T09:59:39.192513", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: About Rivalries on page 146"}
+{"timestamp": "2024-12-25T09:59:39.195789", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Characterizing Optimal Solutions on page 147"}
+{"timestamp": "2024-12-25T09:59:39.201574", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 150"}
+{"timestamp": "2024-12-25T09:59:39.207543", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Memoization on page 153"}
+{"timestamp": "2024-12-25T09:59:39.211541", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 3: Dynamic Programming on page 155"}
+{"timestamp": "2024-12-25T09:59:39.218633", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Space Optimization on page 158"}
+{"timestamp": "2024-12-25T09:59:39.220183", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 159"}
+{"timestamp": "2024-12-25T09:59:39.222451", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 160 is empty"}
+{"timestamp": "2024-12-25T09:59:39.228366", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: The Jumper on page 161"}
+{"timestamp": "2024-12-25T09:59:39.230363", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 162"}
+{"timestamp": "2024-12-25T09:59:39.232363", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Working Through an Example on page 163"}
+{"timestamp": "2024-12-25T09:59:39.235310", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Backward Formulation on page 164"}
+{"timestamp": "2024-12-25T09:59:39.244419", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Forward Formulation on page 169"}
+{"timestamp": "2024-12-25T09:59:39.252203", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 2: Ways to Build on page 173"}
+{"timestamp": "2024-12-25T09:59:39.254843", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 174"}
+{"timestamp": "2024-12-25T09:59:39.258013", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Working Through an Example on page 175"}
+{"timestamp": "2024-12-25T09:59:39.261272", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Using ``Exactly'' Subproblems on page 176"}
+{"timestamp": "2024-12-25T09:59:39.268760", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Adding More Subproblems on page 180"}
+{"timestamp": "2024-12-25T09:59:39.277010", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 185"}
+{"timestamp": "2024-12-25T09:59:39.278975", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 186 is empty"}
+{"timestamp": "2024-12-25T09:59:39.284875", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Knight Chase on page 187"}
+{"timestamp": "2024-12-25T09:59:39.289582", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 188"}
+{"timestamp": "2024-12-25T09:59:39.292560", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Moving Optimally on page 189"}
+{"timestamp": "2024-12-25T09:59:39.313716", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Best Knight Outcome on page 199"}
+{"timestamp": "2024-12-25T09:59:39.317410", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Knight Flip-Flop on page 201"}
+{"timestamp": "2024-12-25T09:59:39.324323", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Time Optimization on page 204"}
+{"timestamp": "2024-12-25T09:59:39.327856", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: What Are Graphs? on page 205"}
+{"timestamp": "2024-12-25T09:59:39.331282", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Graphs vs. Trees on page 206"}
+{"timestamp": "2024-12-25T09:59:39.335349", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: BFS on Graphs on page 208"}
+{"timestamp": "2024-12-25T09:59:39.338151", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 209"}
+{"timestamp": "2024-12-25T09:59:39.341384", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Finding the Moves on page 210"}
+{"timestamp": "2024-12-25T09:59:39.350415", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: A Remodel on page 215"}
+{"timestamp": "2024-12-25T09:59:39.365276", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 223"}
+{"timestamp": "2024-12-25T09:59:39.367665", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Language Names on page 224"}
+{"timestamp": "2024-12-25T09:59:39.369669", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Building the Graph on page 225"}
+{"timestamp": "2024-12-25T09:59:39.375368", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The BFS on page 228"}
+{"timestamp": "2024-12-25T09:59:39.379368", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Total Cost on page 230"}
+{"timestamp": "2024-12-25T09:59:39.382081", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 231"}
+{"timestamp": "2024-12-25T09:59:39.382549", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 232 is empty"}
+{"timestamp": "2024-12-25T09:59:39.389032", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 6: SHORTEST PATHS IN WEIGHTED GRAPHS on page 233"}
+{"timestamp": "2024-12-25T09:59:39.392033", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 234"}
+{"timestamp": "2024-12-25T09:59:39.396021", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Moving On from BFS on page 235"}
+{"timestamp": "2024-12-25T09:59:39.400717", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Finding Shortest Paths in Weighted Graphs on page 236"}
+{"timestamp": "2024-12-25T09:59:39.409960", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Building the Graph on page 239"}
+{"timestamp": "2024-12-25T09:59:39.414620", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Implementing Dijkstra's Algorithm on page 241"}
+{"timestamp": "2024-12-25T09:59:39.419401", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Two Optimizations on page 243"}
+{"timestamp": "2024-12-25T09:59:39.424800", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Runtime of Dijkstra's Algorithm on page 246"}
+{"timestamp": "2024-12-25T09:59:39.428444", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Negative-Weight Edges on page 247"}
+{"timestamp": "2024-12-25T09:59:39.435453", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 249"}
+{"timestamp": "2024-12-25T09:59:39.437717", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Adjacency Matrix on page 250"}
+{"timestamp": "2024-12-25T09:59:39.440717", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Building the Graph on page 251"}
+{"timestamp": "2024-12-25T09:59:39.445688", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Working Through a Weird Test Case on page 253"}
+{"timestamp": "2024-12-25T09:59:39.450655", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Task 1: Shortest Paths on page 255"}
+{"timestamp": "2024-12-25T09:59:39.457564", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Task 2: Number of Shortest Paths on page 258"}
+{"timestamp": "2024-12-25T09:59:39.471421", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Summary on page 264"}
+{"timestamp": "2024-12-25T09:59:39.473329", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 265"}
+{"timestamp": "2024-12-25T09:59:39.474297", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 266 is empty"}
+{"timestamp": "2024-12-25T09:59:39.480317", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Feeding Ants on page 267"}
+{"timestamp": "2024-12-25T09:59:39.484090", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 268"}
+{"timestamp": "2024-12-25T09:59:39.486316", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A New Flavor of Tree Problem on page 269"}
+{"timestamp": "2024-12-25T09:59:39.490986", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 271"}
+{"timestamp": "2024-12-25T09:59:39.496243", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Testing Feasibility on page 273"}
+{"timestamp": "2024-12-25T09:59:39.501160", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Searching for a Solution on page 275"}
+{"timestamp": "2024-12-25T09:59:39.504162", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Binary Search on page 276"}
+{"timestamp": "2024-12-25T09:59:39.507281", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Runtime of Binary Search on page 277"}
+{"timestamp": "2024-12-25T09:59:39.510282", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Searching a Sorted Array on page 278"}
+{"timestamp": "2024-12-25T09:59:39.513038", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 279"}
+{"timestamp": "2024-12-25T09:59:39.516037", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Greedy Idea on page 280"}
+{"timestamp": "2024-12-25T09:59:39.519985", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Testing Feasibility on page 282"}
+{"timestamp": "2024-12-25T09:59:39.529220", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Searching for a Solution on page 286"}
+{"timestamp": "2024-12-25T09:59:39.534876", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 289"}
+{"timestamp": "2024-12-25T09:59:39.537528", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 290"}
+{"timestamp": "2024-12-25T09:59:39.542902", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Sorting Every Rectangle on page 292"}
+{"timestamp": "2024-12-25T09:59:39.550954", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Using Binary Search on page 295"}
+{"timestamp": "2024-12-25T09:59:39.553695", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Testing Feasibility on page 296"}
+{"timestamp": "2024-12-25T09:59:39.556977", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Quicker Way to Test Feasibility on page 297"}
+{"timestamp": "2024-12-25T09:59:39.578555", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 303"}
+{"timestamp": "2024-12-25T09:59:39.582490", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving a Subtask on page 304"}
+{"timestamp": "2024-12-25T09:59:39.586715", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Using Linear Search on page 306"}
+{"timestamp": "2024-12-25T09:59:39.591449", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Using Binary Search on page 308"}
+{"timestamp": "2024-12-25T09:59:39.595281", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Summary on page 310"}
+{"timestamp": "2024-12-25T09:59:39.598027", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 311"}
+{"timestamp": "2024-12-25T09:59:39.599027", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 312 is empty"}
+{"timestamp": "2024-12-25T09:59:39.605217", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 313"}
+{"timestamp": "2024-12-25T09:59:39.608217", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Maximum and Minimum in an Array on page 314"}
+{"timestamp": "2024-12-25T09:59:39.615998", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Max-Heaps on page 318"}
+{"timestamp": "2024-12-25T09:59:39.635172", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Min-Heaps on page 329"}
+{"timestamp": "2024-12-25T09:59:39.639268", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Heaps on page 331"}
+{"timestamp": "2024-12-25T09:59:39.646186", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Two More Applications on page 334"}
+{"timestamp": "2024-12-25T09:59:39.650748", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 336"}
+{"timestamp": "2024-12-25T09:59:39.655558", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Recursively Outputting Treaps on page 338"}
+{"timestamp": "2024-12-25T09:59:39.658924", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 339"}
+{"timestamp": "2024-12-25T09:59:39.667885", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Range Maximum Queries on page 343"}
+{"timestamp": "2024-12-25T09:59:39.671515", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Segment Trees on page 344"}
+{"timestamp": "2024-12-25T09:59:39.686681", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Segment Trees on page 352"}
+{"timestamp": "2024-12-25T09:59:39.689631", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Segment Trees on page 353"}
+{"timestamp": "2024-12-25T09:59:39.692406", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 354"}
+{"timestamp": "2024-12-25T09:59:39.696685", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Filling the Segment Tree on page 355"}
+{"timestamp": "2024-12-25T09:59:39.705519", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Querying the Segment Tree on page 359"}
+{"timestamp": "2024-12-25T09:59:39.707515", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Updating the Segment Tree on page 360"}
+{"timestamp": "2024-12-25T09:59:39.715414", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 364"}
+{"timestamp": "2024-12-25T09:59:39.717414", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 365"}
+{"timestamp": "2024-12-25T09:59:39.719415", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 366 is empty"}
+{"timestamp": "2024-12-25T09:59:39.725455", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 9: UNION-FIND on page 367"}
+{"timestamp": "2024-12-25T09:59:39.728317", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 368"}
+{"timestamp": "2024-12-25T09:59:39.730315", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Modeling as a Graph on page 369"}
+{"timestamp": "2024-12-25T09:59:39.737254", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: BFS on page 372"}
+{"timestamp": "2024-12-25T09:59:39.745224", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Union-Find on page 376"}
+{"timestamp": "2024-12-25T09:59:39.753160", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Union-Find on page 379"}
+{"timestamp": "2024-12-25T09:59:39.758152", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Optimization 1: Union by Size on page 382"}
+{"timestamp": "2024-12-25T09:59:39.766101", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Optimization 2: Path Compression on page 386"}
+{"timestamp": "2024-12-25T09:59:39.771013", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Union-Find on page 388"}
+{"timestamp": "2024-12-25T09:59:39.775006", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Optimizations on page 389"}
+{"timestamp": "2024-12-25T09:59:39.778062", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 390"}
+{"timestamp": "2024-12-25T09:59:39.781461", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Augmenting Union-Find on page 391"}
+{"timestamp": "2024-12-25T09:59:39.790900", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 395"}
+{"timestamp": "2024-12-25T09:59:39.792897", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Find and Union on page 396"}
+{"timestamp": "2024-12-25T09:59:39.794897", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: SetFriends and SetEnemies on page 397"}
+{"timestamp": "2024-12-25T09:59:39.799134", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: AreFriends and AreEnemies on page 399"}
+{"timestamp": "2024-12-25T09:59:39.802134", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 400"}
+{"timestamp": "2024-12-25T09:59:39.805237", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Equivalent Drawers on page 401"}
+{"timestamp": "2024-12-25T09:59:39.812713", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 406"}
+{"timestamp": "2024-12-25T09:59:39.816714", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Find and Union on page 408"}
+{"timestamp": "2024-12-25T09:59:39.818731", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 409"}
+{"timestamp": "2024-12-25T09:59:39.819732", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 410 is empty"}
+{"timestamp": "2024-12-25T09:59:39.825591", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 10: RANDOMIZATION on page 411"}
+{"timestamp": "2024-12-25T09:59:39.828590", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Randomly Choosing a Piece on page 412"}
+{"timestamp": "2024-12-25T09:59:39.834563", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Generating Random Numbers on page 414"}
+{"timestamp": "2024-12-25T09:59:39.838251", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Determining Number of Pieces on page 415"}
+{"timestamp": "2024-12-25T09:59:39.843552", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Guessing Flavors on page 417"}
+{"timestamp": "2024-12-25T09:59:39.849572", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: How Many Attempts Do We Need? on page 420"}
+{"timestamp": "2024-12-25T09:59:39.853458", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Filling the Flavor Arrays on page 421"}
+{"timestamp": "2024-12-25T09:59:39.855488", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 422"}
+{"timestamp": "2024-12-25T09:59:39.858494", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Monte Carlo Algorithms on page 423"}
+{"timestamp": "2024-12-25T09:59:39.861413", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Las Vegas Algorithms on page 424"}
+{"timestamp": "2024-12-25T09:59:39.865413", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Deterministic vs. Randomized Algorithms on page 425"}
+{"timestamp": "2024-12-25T09:59:39.868427", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 426"}
+{"timestamp": "2024-12-25T09:59:39.871426", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving a Subtask on page 427"}
+{"timestamp": "2024-12-25T09:59:39.876310", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 429"}
+{"timestamp": "2024-12-25T09:59:39.881110", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Adding Randomization on page 432"}
+{"timestamp": "2024-12-25T09:59:39.886111", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Implementing Quicksort on page 434"}
+{"timestamp": "2024-12-25T09:59:39.890912", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Worst-Case and Expected Runtime on page 436"}
+{"timestamp": "2024-12-25T09:59:39.896064", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 438"}
+{"timestamp": "2024-12-25T09:59:39.901917", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: AFTERWORD on page 439"}
+{"timestamp": "2024-12-25T09:59:39.908900", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Case for Timing...and Something Else on page 441"}
+{"timestamp": "2024-12-25T09:59:39.914561", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Linear Time on page 443"}
+{"timestamp": "2024-12-25T09:59:39.917811", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Constant Time on page 444"}
+{"timestamp": "2024-12-25T09:59:39.919810", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Quadratic Time on page 445"}
+{"timestamp": "2024-12-25T09:59:39.922934", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Big O in This Book on page 446"}
+{"timestamp": "2024-12-25T09:59:39.929756", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Unique Snowflakes: Implicit Linked Lists on page 447"}
+{"timestamp": "2024-12-25T09:59:39.935545", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Burger Fervor: Reconstructing a Solution on page 450"}
+{"timestamp": "2024-12-25T09:59:39.940064", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Knight Chase: Encoding Moves on page 452"}
+{"timestamp": "2024-12-25T09:59:39.944698", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Mice Maze: Tracing with Heaps on page 454"}
+{"timestamp": "2024-12-25T09:59:39.952795", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Mice Maze: Implementation with Heaps on page 457"}
+{"timestamp": "2024-12-25T09:59:39.956036", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Compressing Path Compression on page 458"}
+{"timestamp": "2024-12-25T09:59:39.970301", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 2: Cleaner Assignment Operator on page 459"}
+{"timestamp": "2024-12-25T09:59:39.975348", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Caps and Bottles: In-Place Sorting on page 460"}
+{"timestamp": "2024-12-25T09:59:39.987512", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: APPENDIX C: PROBLEM CREDITS on page 463"}
+{"timestamp": "2024-12-25T09:59:39.992231", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 466 is empty"}
+{"timestamp": "2024-12-25T09:59:39.997981", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: INDEX on page 467"}
+{"timestamp": "2024-12-25T09:59:40.013319", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 476 is empty"}
+{"timestamp": "2024-12-25T09:59:40.018244", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 478 is empty"}
+{"timestamp": "2024-12-25T09:59:40.021035", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 480 is empty"}
+{"timestamp": "2024-12-25T09:59:40.022005", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 481 is empty"}
+{"timestamp": "2024-12-25T09:59:40.023819", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 482 is empty"}
+{"timestamp": "2024-12-25T09:59:40.024820", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 221, "message": "PDF processing complete. Processed 482 pages, Found content in 462 pages"}
+{"timestamp": "2024-12-25T09:59:40.322813", "level": "INFO", "module": "processor", "function": "process_in_batches", "line": 100, "message": "Batch processing complete. Processed 462 documents, resulting in 462 processed documents"}
+{"timestamp": "2024-12-25T09:59:40.327805", "level": "INFO", "module": "processor", "function": "process_documents", "line": 240, "message": "Batch processing complete. Got 462 documents"}
+{"timestamp": "2024-12-25T09:59:40.332245", "level": "INFO", "module": "processor", "function": "process_documents", "line": 251, "message": "After filtering: 450 documents remain"}
+{"timestamp": "2024-12-25T09:59:40.336419", "level": "INFO", "module": "processor", "function": "process_documents", "line": 258, "message": "Starting chapter indexing"}
+{"timestamp": "2024-12-25T09:59:40.339063", "level": "INFO", "module": "indexer", "function": "index_document", "line": 112, "message": "Starting document indexing"}
+{"timestamp": "2024-12-25T09:59:40.341353", "level": "INFO", "module": "indexer", "function": "index_document", "line": 145, "message": "Indexed 0 chapters"}
+{"timestamp": "2024-12-25T09:59:40.343352", "level": "INFO", "module": "processor", "function": "process_documents", "line": 260, "message": "Chapter indexing complete. Found 0 chapters"}
+{"timestamp": "2024-12-25T09:59:40.343718", "level": "INFO", "module": "processor", "function": "process_documents", "line": 279, "message": "Enhanced document creation complete. Created 0 documents across 0 chapters"}
+{"timestamp": "2024-12-25T09:59:40.345433", "level": "ERROR", "module": "processor", "function": "process_documents", "line": 284, "message": "No enhanced documents were created"}
+{"timestamp": "2024-12-25T09:59:40.346477", "level": "ERROR", "module": "processor", "function": "process_documents", "line": 290, "message": "Error in document processing: No enhanced documents were created"}
+{"timestamp": "2024-12-25T10:07:14.062347", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T10:07:14.064326", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T10:07:14.065316", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T10:07:14.066315", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T10:07:14.067529", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T10:07:14.068528", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T10:07:14.072567", "level": "INFO", "module": "resources", "function": "start_monitoring", "line": 132, "message": "Resource monitoring started"}
+{"timestamp": "2024-12-25T10:07:15.869462", "level": "INFO", "module": "processor", "function": "process_documents", "line": 235, "message": "Starting document processing"}
+{"timestamp": "2024-12-25T10:07:15.870261", "level": "INFO", "module": "processor", "function": "process_documents", "line": 238, "message": "Beginning batch processing"}
+{"timestamp": "2024-12-25T10:07:15.871447", "level": "INFO", "module": "processor", "function": "process_in_batches", "line": 75, "message": "Starting batch processing"}
+{"timestamp": "2024-12-25T10:07:15.872454", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 171, "message": "Starting PDF load: .\\mybooks\\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf"}
+{"timestamp": "2024-12-25T10:07:15.895921", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 174, "message": "PDF opened successfully. Total pages: 482"}
+{"timestamp": "2024-12-25T10:07:15.902774", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 177, "message": "Table of contents entries: 280"}
+{"timestamp": "2024-12-25T10:07:15.904743", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 184, "message": "Found 214 chapter mappings"}
+{"timestamp": "2024-12-25T10:07:15.905741", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 1 is empty"}
+{"timestamp": "2024-12-25T10:07:15.907740", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 2 is empty"}
+{"timestamp": "2024-12-25T10:07:15.944093", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 4 is empty"}
+{"timestamp": "2024-12-25T10:07:15.957612", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 8 is empty"}
+{"timestamp": "2024-12-25T10:07:15.959576", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: ABOUT THE AUTHOR on page 9"}
+{"timestamp": "2024-12-25T10:07:15.961578", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 10 is empty"}
+{"timestamp": "2024-12-25T10:07:15.965572", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: BRIEF CONTENTS on page 11"}
+{"timestamp": "2024-12-25T10:07:15.966572", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 12 is empty"}
+{"timestamp": "2024-12-25T10:07:15.969657", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CONTENTS IN DETAIL on page 13"}
+{"timestamp": "2024-12-25T10:07:15.993046", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: FOREWORD on page 21"}
+{"timestamp": "2024-12-25T10:07:15.996320", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: ACKNOWLEDGMENTS on page 23"}
+{"timestamp": "2024-12-25T10:07:15.997313", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 24 is empty"}
+{"timestamp": "2024-12-25T10:07:16.004583", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: What We'll Do on page 25"}
+{"timestamp": "2024-12-25T10:07:16.008753", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: New to the Second Edition on page 26"}
+{"timestamp": "2024-12-25T10:07:16.011077", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Who This Book Is For on page 27"}
+{"timestamp": "2024-12-25T10:07:16.015074", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Static Keyword on page 28"}
+{"timestamp": "2024-12-25T10:07:16.019316", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Topic Selection on page 29"}
+{"timestamp": "2024-12-25T10:07:16.022316", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Programming Judges on page 30"}
+{"timestamp": "2024-12-25T10:07:16.026967", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Anatomy of a Problem Description on page 32"}
+{"timestamp": "2024-12-25T10:07:16.030410", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 33"}
+{"timestamp": "2024-12-25T10:07:16.032431", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving the Problem on page 34"}
+{"timestamp": "2024-12-25T10:07:16.036676", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 36"}
+{"timestamp": "2024-12-25T10:07:16.043370", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Unique Snowflakes on page 37"}
+{"timestamp": "2024-12-25T10:07:16.046783", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 38"}
+{"timestamp": "2024-12-25T10:07:16.052700", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Simplifying the Problem on page 40"}
+{"timestamp": "2024-12-25T10:07:16.055687", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving the Core Problem on page 41"}
+{"timestamp": "2024-12-25T10:07:16.062883", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Pairwise Comparisons on page 44"}
+{"timestamp": "2024-12-25T10:07:16.071263", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Doing Less Work on page 48"}
+{"timestamp": "2024-12-25T10:07:16.081564", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Hash Table Design on page 53"}
+{"timestamp": "2024-12-25T10:07:16.087768", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 56"}
+{"timestamp": "2024-12-25T10:07:16.090764", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Looking at All Passwords on page 57"}
+{"timestamp": "2024-12-25T10:07:16.094762", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Using a Hash Table on page 59"}
+{"timestamp": "2024-12-25T10:07:16.104029", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 65"}
+{"timestamp": "2024-12-25T10:07:16.107029", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Thinking About Hash Tables on page 66"}
+{"timestamp": "2024-12-25T10:07:16.113336", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: An Ad Hoc Solution on page 68"}
+{"timestamp": "2024-12-25T10:07:16.119610", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 71"}
+{"timestamp": "2024-12-25T10:07:16.126563", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Halloween Haul on page 73"}
+{"timestamp": "2024-12-25T10:07:16.128745", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 74"}
+{"timestamp": "2024-12-25T10:07:16.131738", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Binary Trees on page 75"}
+{"timestamp": "2024-12-25T10:07:16.136759", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Representing Binary Trees on page 77"}
+{"timestamp": "2024-12-25T10:07:16.145975", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Collecting All the Candy on page 82"}
+{"timestamp": "2024-12-25T10:07:16.155173", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Completely Different Solution on page 87"}
+{"timestamp": "2024-12-25T10:07:16.167596", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Walking the Minimum Number of Streets on page 92"}
+{"timestamp": "2024-12-25T10:07:16.174653", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 95"}
+{"timestamp": "2024-12-25T10:07:16.184802", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Why Use Recursion? on page 101"}
+{"timestamp": "2024-12-25T10:07:16.187632", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 102"}
+{"timestamp": "2024-12-25T10:07:16.191920", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 104"}
+{"timestamp": "2024-12-25T10:07:16.198116", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Number of Descendants from One Node on page 108"}
+{"timestamp": "2024-12-25T10:07:16.200775", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Number of Descendants from All Nodes on page 109"}
+{"timestamp": "2024-12-25T10:07:16.203781", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Sorting Nodes on page 110"}
+{"timestamp": "2024-12-25T10:07:16.206775", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 111"}
+{"timestamp": "2024-12-25T10:07:16.209950", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 112"}
+{"timestamp": "2024-12-25T10:07:16.215950", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 3: MEMOIZATION AND DYNAMIC PROGRAMMING on page 113"}
+{"timestamp": "2024-12-25T10:07:16.218173", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Forming a Plan on page 114"}
+{"timestamp": "2024-12-25T10:07:16.224171", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Characterizing Optimal Solutions on page 116"}
+{"timestamp": "2024-12-25T10:07:16.227170", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 117"}
+{"timestamp": "2024-12-25T10:07:16.236868", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Memoization on page 122"}
+{"timestamp": "2024-12-25T10:07:16.245175", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 3: Dynamic Programming on page 127"}
+{"timestamp": "2024-12-25T10:07:16.252354", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Memoization and Dynamic Programming on page 130"}
+{"timestamp": "2024-12-25T10:07:16.255934", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 1: Structure of Optimal Solutions on page 131"}
+{"timestamp": "2024-12-25T10:07:16.259104", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 3: Memoization on page 132"}
+{"timestamp": "2024-12-25T10:07:16.262104", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 4: Dynamic Programming on page 133"}
+{"timestamp": "2024-12-25T10:07:16.265104", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 134"}
+{"timestamp": "2024-12-25T10:07:16.268261", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Characterizing Optimal Solutions on page 135"}
+{"timestamp": "2024-12-25T10:07:16.273260", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 137"}
+{"timestamp": "2024-12-25T10:07:16.280459", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 141"}
+{"timestamp": "2024-12-25T10:07:16.283253", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Memoization on page 142"}
+{"timestamp": "2024-12-25T10:07:16.287252", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 3: Hockey Rivalry on page 144"}
+{"timestamp": "2024-12-25T10:07:16.292113", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 145"}
+{"timestamp": "2024-12-25T10:07:16.295107", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: About Rivalries on page 146"}
+{"timestamp": "2024-12-25T10:07:16.298382", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Characterizing Optimal Solutions on page 147"}
+{"timestamp": "2024-12-25T10:07:16.304382", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 150"}
+{"timestamp": "2024-12-25T10:07:16.309704", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Memoization on page 153"}
+{"timestamp": "2024-12-25T10:07:16.313708", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 3: Dynamic Programming on page 155"}
+{"timestamp": "2024-12-25T10:07:16.320987", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Space Optimization on page 158"}
+{"timestamp": "2024-12-25T10:07:16.323028", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 159"}
+{"timestamp": "2024-12-25T10:07:16.324032", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 160 is empty"}
+{"timestamp": "2024-12-25T10:07:16.330342", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: The Jumper on page 161"}
+{"timestamp": "2024-12-25T10:07:16.332330", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 162"}
+{"timestamp": "2024-12-25T10:07:16.334301", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Working Through an Example on page 163"}
+{"timestamp": "2024-12-25T10:07:16.337603", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Backward Formulation on page 164"}
+{"timestamp": "2024-12-25T10:07:16.345604", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Forward Formulation on page 169"}
+{"timestamp": "2024-12-25T10:07:16.353907", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 2: Ways to Build on page 173"}
+{"timestamp": "2024-12-25T10:07:16.356913", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 174"}
+{"timestamp": "2024-12-25T10:07:16.360191", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Working Through an Example on page 175"}
+{"timestamp": "2024-12-25T10:07:16.363158", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Using ``Exactly'' Subproblems on page 176"}
+{"timestamp": "2024-12-25T10:07:16.370373", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Adding More Subproblems on page 180"}
+{"timestamp": "2024-12-25T10:07:16.379569", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 185"}
+{"timestamp": "2024-12-25T10:07:16.380570", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 186 is empty"}
+{"timestamp": "2024-12-25T10:07:16.386569", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Knight Chase on page 187"}
+{"timestamp": "2024-12-25T10:07:16.390876", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 188"}
+{"timestamp": "2024-12-25T10:07:16.393878", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Moving Optimally on page 189"}
+{"timestamp": "2024-12-25T10:07:16.415414", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Best Knight Outcome on page 199"}
+{"timestamp": "2024-12-25T10:07:16.419682", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Knight Flip-Flop on page 201"}
+{"timestamp": "2024-12-25T10:07:16.425675", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Time Optimization on page 204"}
+{"timestamp": "2024-12-25T10:07:16.429900", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: What Are Graphs? on page 205"}
+{"timestamp": "2024-12-25T10:07:16.432551", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Graphs vs. Trees on page 206"}
+{"timestamp": "2024-12-25T10:07:16.437512", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: BFS on Graphs on page 208"}
+{"timestamp": "2024-12-25T10:07:16.440371", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 209"}
+{"timestamp": "2024-12-25T10:07:16.442371", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Finding the Moves on page 210"}
+{"timestamp": "2024-12-25T10:07:16.452504", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: A Remodel on page 215"}
+{"timestamp": "2024-12-25T10:07:16.466706", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 223"}
+{"timestamp": "2024-12-25T10:07:16.469526", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Language Names on page 224"}
+{"timestamp": "2024-12-25T10:07:16.472445", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Building the Graph on page 225"}
+{"timestamp": "2024-12-25T10:07:16.477414", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The BFS on page 228"}
+{"timestamp": "2024-12-25T10:07:16.480627", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Total Cost on page 230"}
+{"timestamp": "2024-12-25T10:07:16.483669", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 231"}
+{"timestamp": "2024-12-25T10:07:16.484662", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 232 is empty"}
+{"timestamp": "2024-12-25T10:07:16.490906", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 6: SHORTEST PATHS IN WEIGHTED GRAPHS on page 233"}
+{"timestamp": "2024-12-25T10:07:16.493984", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 234"}
+{"timestamp": "2024-12-25T10:07:16.498168", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Moving On from BFS on page 235"}
+{"timestamp": "2024-12-25T10:07:16.503166", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Finding Shortest Paths in Weighted Graphs on page 236"}
+{"timestamp": "2024-12-25T10:07:16.512372", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Building the Graph on page 239"}
+{"timestamp": "2024-12-25T10:07:16.516298", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Implementing Dijkstra's Algorithm on page 241"}
+{"timestamp": "2024-12-25T10:07:16.520579", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Two Optimizations on page 243"}
+{"timestamp": "2024-12-25T10:07:16.528877", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Runtime of Dijkstra's Algorithm on page 246"}
+{"timestamp": "2024-12-25T10:07:16.531850", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Negative-Weight Edges on page 247"}
+{"timestamp": "2024-12-25T10:07:16.536877", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 249"}
+{"timestamp": "2024-12-25T10:07:16.540202", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Adjacency Matrix on page 250"}
+{"timestamp": "2024-12-25T10:07:16.543185", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Building the Graph on page 251"}
+{"timestamp": "2024-12-25T10:07:16.548492", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Working Through a Weird Test Case on page 253"}
+{"timestamp": "2024-12-25T10:07:16.553460", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Task 1: Shortest Paths on page 255"}
+{"timestamp": "2024-12-25T10:07:16.560665", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Task 2: Number of Shortest Paths on page 258"}
+{"timestamp": "2024-12-25T10:07:16.573729", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Summary on page 264"}
+{"timestamp": "2024-12-25T10:07:16.575793", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 265"}
+{"timestamp": "2024-12-25T10:07:16.577312", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 266 is empty"}
+{"timestamp": "2024-12-25T10:07:16.583319", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Problem 1: Feeding Ants on page 267"}
+{"timestamp": "2024-12-25T10:07:16.586318", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 268"}
+{"timestamp": "2024-12-25T10:07:16.588527", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A New Flavor of Tree Problem on page 269"}
+{"timestamp": "2024-12-25T10:07:16.594235", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 271"}
+{"timestamp": "2024-12-25T10:07:16.598403", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Testing Feasibility on page 273"}
+{"timestamp": "2024-12-25T10:07:16.603403", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Searching for a Solution on page 275"}
+{"timestamp": "2024-12-25T10:07:16.606402", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Binary Search on page 276"}
+{"timestamp": "2024-12-25T10:07:16.609604", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Runtime of Binary Search on page 277"}
+{"timestamp": "2024-12-25T10:07:16.612603", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Searching a Sorted Array on page 278"}
+{"timestamp": "2024-12-25T10:07:16.615731", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 279"}
+{"timestamp": "2024-12-25T10:07:16.617991", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Greedy Idea on page 280"}
+{"timestamp": "2024-12-25T10:07:16.622985", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Testing Feasibility on page 282"}
+{"timestamp": "2024-12-25T10:07:16.631279", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Searching for a Solution on page 286"}
+{"timestamp": "2024-12-25T10:07:16.636281", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Reading the Input on page 289"}
+{"timestamp": "2024-12-25T10:07:16.639595", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 290"}
+{"timestamp": "2024-12-25T10:07:16.644596", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Sorting Every Rectangle on page 292"}
+{"timestamp": "2024-12-25T10:07:16.651826", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Using Binary Search on page 295"}
+{"timestamp": "2024-12-25T10:07:16.654825", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Testing Feasibility on page 296"}
+{"timestamp": "2024-12-25T10:07:16.658159", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: A Quicker Way to Test Feasibility on page 297"}
+{"timestamp": "2024-12-25T10:07:16.679757", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 303"}
+{"timestamp": "2024-12-25T10:07:16.682768", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving a Subtask on page 304"}
+{"timestamp": "2024-12-25T10:07:16.688050", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Using Linear Search on page 306"}
+{"timestamp": "2024-12-25T10:07:16.692354", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Using Binary Search on page 308"}
+{"timestamp": "2024-12-25T10:07:16.696344", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Summary on page 310"}
+{"timestamp": "2024-12-25T10:07:16.698552", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 311"}
+{"timestamp": "2024-12-25T10:07:16.700248", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 312 is empty"}
+{"timestamp": "2024-12-25T10:07:16.706253", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 313"}
+{"timestamp": "2024-12-25T10:07:16.709422", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Maximum and Minimum in an Array on page 314"}
+{"timestamp": "2024-12-25T10:07:16.716423", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Max-Heaps on page 318"}
+{"timestamp": "2024-12-25T10:07:16.736550", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Min-Heaps on page 329"}
+{"timestamp": "2024-12-25T10:07:16.740799", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Heaps on page 331"}
+{"timestamp": "2024-12-25T10:07:16.746796", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Two More Applications on page 334"}
+{"timestamp": "2024-12-25T10:07:16.751532", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 336"}
+{"timestamp": "2024-12-25T10:07:16.756784", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Recursively Outputting Treaps on page 338"}
+{"timestamp": "2024-12-25T10:07:16.759047", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 339"}
+{"timestamp": "2024-12-25T10:07:16.767004", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Range Maximum Queries on page 343"}
+{"timestamp": "2024-12-25T10:07:16.771824", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Segment Trees on page 344"}
+{"timestamp": "2024-12-25T10:07:16.787102", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Segment Trees on page 352"}
+{"timestamp": "2024-12-25T10:07:16.790474", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Segment Trees on page 353"}
+{"timestamp": "2024-12-25T10:07:16.793463", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 354"}
+{"timestamp": "2024-12-25T10:07:16.796464", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Filling the Segment Tree on page 355"}
+{"timestamp": "2024-12-25T10:07:16.805738", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Querying the Segment Tree on page 359"}
+{"timestamp": "2024-12-25T10:07:16.807949", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Updating the Segment Tree on page 360"}
+{"timestamp": "2024-12-25T10:07:16.815950", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 364"}
+{"timestamp": "2024-12-25T10:07:16.818164", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 365"}
+{"timestamp": "2024-12-25T10:07:16.819541", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 366 is empty"}
+{"timestamp": "2024-12-25T10:07:16.825546", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 9: UNION-FIND on page 367"}
+{"timestamp": "2024-12-25T10:07:16.827547", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 368"}
+{"timestamp": "2024-12-25T10:07:16.830719", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Modeling as a Graph on page 369"}
+{"timestamp": "2024-12-25T10:07:16.837883", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: BFS on page 372"}
+{"timestamp": "2024-12-25T10:07:16.845219", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Union-Find on page 376"}
+{"timestamp": "2024-12-25T10:07:16.852384", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Union-Find on page 379"}
+{"timestamp": "2024-12-25T10:07:16.857596", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Optimization 1: Union by Size on page 382"}
+{"timestamp": "2024-12-25T10:07:16.865626", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Optimization 2: Path Compression on page 386"}
+{"timestamp": "2024-12-25T10:07:16.870892", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Union-Find on page 388"}
+{"timestamp": "2024-12-25T10:07:16.873888", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Optimizations on page 389"}
+{"timestamp": "2024-12-25T10:07:16.876889", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 390"}
+{"timestamp": "2024-12-25T10:07:16.881089", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Augmenting Union-Find on page 391"}
+{"timestamp": "2024-12-25T10:07:16.889368", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 395"}
+{"timestamp": "2024-12-25T10:07:16.891379", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Find and Union on page 396"}
+{"timestamp": "2024-12-25T10:07:16.894368", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: SetFriends and SetEnemies on page 397"}
+{"timestamp": "2024-12-25T10:07:16.898680", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: AreFriends and AreEnemies on page 399"}
+{"timestamp": "2024-12-25T10:07:16.901630", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 400"}
+{"timestamp": "2024-12-25T10:07:16.904445", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Equivalent Drawers on page 401"}
+{"timestamp": "2024-12-25T10:07:16.911708", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 406"}
+{"timestamp": "2024-12-25T10:07:16.916711", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Find and Union on page 408"}
+{"timestamp": "2024-12-25T10:07:16.918983", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 409"}
+{"timestamp": "2024-12-25T10:07:16.919984", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 410 is empty"}
+{"timestamp": "2024-12-25T10:07:16.925985", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: CHAPTER 10: RANDOMIZATION on page 411"}
+{"timestamp": "2024-12-25T10:07:16.928147", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Randomly Choosing a Piece on page 412"}
+{"timestamp": "2024-12-25T10:07:16.934765", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Generating Random Numbers on page 414"}
+{"timestamp": "2024-12-25T10:07:16.937766", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Determining Number of Pieces on page 415"}
+{"timestamp": "2024-12-25T10:07:16.943930", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Guessing Flavors on page 417"}
+{"timestamp": "2024-12-25T10:07:16.950135", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: How Many Attempts Do We Need? on page 420"}
+{"timestamp": "2024-12-25T10:07:16.953137", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Filling the Flavor Arrays on page 421"}
+{"timestamp": "2024-12-25T10:07:16.955137", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The main Function on page 422"}
+{"timestamp": "2024-12-25T10:07:16.958340", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Monte Carlo Algorithms on page 423"}
+{"timestamp": "2024-12-25T10:07:16.962340", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Las Vegas Algorithms on page 424"}
+{"timestamp": "2024-12-25T10:07:16.965340", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Deterministic vs. Randomized Algorithms on page 425"}
+{"timestamp": "2024-12-25T10:07:16.968544", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Problem on page 426"}
+{"timestamp": "2024-12-25T10:07:16.971618", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solving a Subtask on page 427"}
+{"timestamp": "2024-12-25T10:07:16.976660", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 1: Recursion on page 429"}
+{"timestamp": "2024-12-25T10:07:16.980915", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Solution 2: Adding Randomization on page 432"}
+{"timestamp": "2024-12-25T10:07:16.985916", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Implementing Quicksort on page 434"}
+{"timestamp": "2024-12-25T10:07:16.991245", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Worst-Case and Expected Runtime on page 436"}
+{"timestamp": "2024-12-25T10:07:16.996246", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Notes on page 438"}
+{"timestamp": "2024-12-25T10:07:17.003551", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: AFTERWORD on page 439"}
+{"timestamp": "2024-12-25T10:07:17.009820", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: The Case for Timing...and Something Else on page 441"}
+{"timestamp": "2024-12-25T10:07:17.015620", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Linear Time on page 443"}
+{"timestamp": "2024-12-25T10:07:17.018782", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Constant Time on page 444"}
+{"timestamp": "2024-12-25T10:07:17.021358", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Quadratic Time on page 445"}
+{"timestamp": "2024-12-25T10:07:17.024346", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Big O in This Book on page 446"}
+{"timestamp": "2024-12-25T10:07:17.030539", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Unique Snowflakes: Implicit Linked Lists on page 447"}
+{"timestamp": "2024-12-25T10:07:17.036831", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Burger Fervor: Reconstructing a Solution on page 450"}
+{"timestamp": "2024-12-25T10:07:17.042274", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Knight Chase: Encoding Moves on page 452"}
+{"timestamp": "2024-12-25T10:07:17.046274", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Mice Maze: Tracing with Heaps on page 454"}
+{"timestamp": "2024-12-25T10:07:17.054607", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Mice Maze: Implementation with Heaps on page 457"}
+{"timestamp": "2024-12-25T10:07:17.056608", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Compressing Path Compression on page 458"}
+{"timestamp": "2024-12-25T10:07:17.059388", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Step 2: Cleaner Assignment Operator on page 459"}
+{"timestamp": "2024-12-25T10:07:17.062388", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: Caps and Bottles: In-Place Sorting on page 460"}
+{"timestamp": "2024-12-25T10:07:17.070564", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: APPENDIX C: PROBLEM CREDITS on page 463"}
+{"timestamp": "2024-12-25T10:07:17.075566", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 466 is empty"}
+{"timestamp": "2024-12-25T10:07:17.080759", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 208, "message": "Found chapter: INDEX on page 467"}
+{"timestamp": "2024-12-25T10:07:17.094236", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 476 is empty"}
+{"timestamp": "2024-12-25T10:07:17.099547", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 478 is empty"}
+{"timestamp": "2024-12-25T10:07:17.102546", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 480 is empty"}
+{"timestamp": "2024-12-25T10:07:17.103516", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 481 is empty"}
+{"timestamp": "2024-12-25T10:07:17.104053", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 215, "message": "Page 482 is empty"}
+{"timestamp": "2024-12-25T10:07:17.106059", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 221, "message": "PDF processing complete. Processed 482 pages, Found content in 462 pages"}
+{"timestamp": "2024-12-25T10:07:17.285925", "level": "INFO", "module": "processor", "function": "process_in_batches", "line": 100, "message": "Batch processing complete. Processed 462 documents, resulting in 462 processed documents"}
+{"timestamp": "2024-12-25T10:07:17.288271", "level": "INFO", "module": "processor", "function": "process_documents", "line": 241, "message": "Batch processing complete. Got 462 documents"}
+{"timestamp": "2024-12-25T10:07:17.290272", "level": "INFO", "module": "processor", "function": "process_documents", "line": 253, "message": "After filtering: 450 documents remain"}
+{"timestamp": "2024-12-25T10:07:17.291301", "level": "INFO", "module": "processor", "function": "process_documents", "line": 260, "message": "Starting chapter indexing"}
+{"timestamp": "2024-12-25T10:07:17.292308", "level": "INFO", "module": "indexer", "function": "index_document", "line": 112, "message": "Starting document indexing"}
+{"timestamp": "2024-12-25T10:07:17.294270", "level": "INFO", "module": "indexer", "function": "index_document", "line": 145, "message": "Indexed 0 chapters"}
+{"timestamp": "2024-12-25T10:07:17.296271", "level": "INFO", "module": "processor", "function": "process_documents", "line": 262, "message": "Chapter indexing complete. Found 0 chapters"}
+{"timestamp": "2024-12-25T10:07:17.297270", "level": "INFO", "module": "processor", "function": "process_documents", "line": 282, "message": "Enhanced document creation complete. Created 0 documents across 0 chapters"}
+{"timestamp": "2024-12-25T10:07:17.298482", "level": "ERROR", "module": "processor", "function": "process_documents", "line": 287, "message": "No enhanced documents were created"}
+{"timestamp": "2024-12-25T10:07:17.299482", "level": "ERROR", "module": "processor", "function": "process_documents", "line": 293, "message": "Error in document processing: No enhanced documents were created"}
+{"timestamp": "2024-12-25T10:14:09.765415", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 118, "message": "System Resources:"}
+{"timestamp": "2024-12-25T10:14:09.767666", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 119, "message": "CPU Count: 16"}
+{"timestamp": "2024-12-25T10:14:09.768668", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 120, "message": "Memory: 31.79 GB"}
+{"timestamp": "2024-12-25T10:14:09.770628", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 121, "message": "GPU Available: True"}
+{"timestamp": "2024-12-25T10:14:09.771627", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 124, "message": "GPU Count: 1"}
+{"timestamp": "2024-12-25T10:14:09.772627", "level": "INFO", "module": "resources", "function": "_log_system_info", "line": 126, "message": "GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU"}
+{"timestamp": "2024-12-25T10:14:09.776413", "level": "INFO", "module": "resources", "function": "start_monitoring", "line": 132, "message": "Resource monitoring started"}
+{"timestamp": "2024-12-25T10:14:11.566384", "level": "INFO", "module": "processor", "function": "process_documents", "line": 232, "message": "Starting document processing"}
+{"timestamp": "2024-12-25T10:14:11.567651", "level": "INFO", "module": "processor", "function": "process_documents", "line": 235, "message": "Beginning batch processing"}
+{"timestamp": "2024-12-25T10:14:11.568491", "level": "INFO", "module": "processor", "function": "process_in_batches", "line": 75, "message": "Starting batch processing"}
+{"timestamp": "2024-12-25T10:14:11.569497", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 171, "message": "Starting PDF load: .\\mybooks\\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf"}
+{"timestamp": "2024-12-25T10:14:11.593960", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 174, "message": "PDF opened successfully. Total pages: 482"}
+{"timestamp": "2024-12-25T10:14:11.601228", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 178, "message": "Table of contents entries: 280"}
+{"timestamp": "2024-12-25T10:14:11.602236", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 186, "message": "Found 21 chapter mappings"}
+{"timestamp": "2024-12-25T10:14:11.604419", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 1 is empty"}
+{"timestamp": "2024-12-25T10:14:11.605425", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 2 is empty"}
+{"timestamp": "2024-12-25T10:14:11.642983", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 4 is empty"}
+{"timestamp": "2024-12-25T10:14:11.656317", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 8 is empty"}
+{"timestamp": "2024-12-25T10:14:11.659614", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 10 is empty"}
+{"timestamp": "2024-12-25T10:14:11.663616", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 12 is empty"}
+{"timestamp": "2024-12-25T10:14:11.690543", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 24 is empty"}
+{"timestamp": "2024-12-25T10:14:11.935521", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 160 is empty"}
+{"timestamp": "2024-12-25T10:14:11.978844", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 186 is empty"}
+{"timestamp": "2024-12-25T10:14:12.060081", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 232 is empty"}
+{"timestamp": "2024-12-25T10:14:12.129135", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 266 is empty"}
+{"timestamp": "2024-12-25T10:14:12.223729", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 312 is empty"}
+{"timestamp": "2024-12-25T10:14:12.318035", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 366 is empty"}
+{"timestamp": "2024-12-25T10:14:12.392904", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 410 is empty"}
+{"timestamp": "2024-12-25T10:14:12.507942", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 466 is empty"}
+{"timestamp": "2024-12-25T10:14:12.526314", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 476 is empty"}
+{"timestamp": "2024-12-25T10:14:12.530609", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 478 is empty"}
+{"timestamp": "2024-12-25T10:14:12.533607", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 480 is empty"}
+{"timestamp": "2024-12-25T10:14:12.535573", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 481 is empty"}
+{"timestamp": "2024-12-25T10:14:12.536602", "level": "WARNING", "module": "processor", "function": "load_pdf_lazy", "line": 214, "message": "Page 482 is empty"}
+{"timestamp": "2024-12-25T10:14:12.537879", "level": "INFO", "module": "processor", "function": "load_pdf_lazy", "line": 220, "message": "PDF processing complete. Processed 482 pages"}
+{"timestamp": "2024-12-25T10:14:12.765091", "level": "INFO", "module": "processor", "function": "process_in_batches", "line": 100, "message": "Batch processing complete. Processed 462 documents, resulting in 462 processed documents"}
+{"timestamp": "2024-12-25T10:14:12.772025", "level": "INFO", "module": "processor", "function": "process_documents", "line": 238, "message": "Batch processing complete. Got 462 documents"}
+{"timestamp": "2024-12-25T10:14:12.777035", "level": "INFO", "module": "processor", "function": "process_documents", "line": 250, "message": "After filtering: 450 documents remain"}
+{"timestamp": "2024-12-25T10:14:12.787288", "level": "INFO", "module": "processor", "function": "process_documents", "line": 279, "message": "Enhanced document creation complete. Created 450 documents across 21 chapters"}

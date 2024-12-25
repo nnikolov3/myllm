@@ -1,0 +1,764 @@
+2024-12-25 09:30:55,447 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:30:55,450 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:30:55,452 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:30:55,454 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:30:55,455 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:30:55,456 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:33:05,973 - __main__ - INFO - Received interrupt signal, cleaning up...
+2024-12-25 09:35:25,586 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:35:25,588 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:35:25,589 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:35:25,590 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:35:25,592 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:35:25,593 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:36:51,625 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:36:51,628 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:36:51,629 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:36:51,630 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:36:51,631 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:36:51,632 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:39:07,364 - __main__ - INFO - Received interrupt signal, cleaning up...
+2024-12-25 09:40:33,568 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:40:33,569 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:40:33,570 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:40:33,572 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:40:33,573 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:40:33,574 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:42:31,882 - __main__ - INFO - Received interrupt signal, cleaning up...
+2024-12-25 09:46:53,694 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:46:53,696 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:46:53,697 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:46:53,698 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:46:53,700 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:46:53,701 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:46:53,705 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 09:46:55,971 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2024-12-25 09:46:56,187 - pypdf._reader - WARNING - parsing for Object Streams
+2024-12-25 09:46:56,196 - pypdf._reader - WARNING - found 0 objects within Object(13330,0) whereas 176 expected
+2024-12-25 09:46:56,205 - pypdf._reader - WARNING - found 0 objects within Object(13331,0) whereas 91 expected
+2024-12-25 09:46:56,210 - pypdf._reader - WARNING - found 0 objects within Object(13332,0) whereas 108 expected
+2024-12-25 09:46:56,214 - pypdf._reader - WARNING - found 0 objects within Object(13333,0) whereas 118 expected
+2024-12-25 09:46:56,224 - pypdf._reader - WARNING - found 0 objects within Object(13334,0) whereas 142 expected
+2024-12-25 09:46:56,226 - pypdf._reader - WARNING - found 0 objects within Object(13335,0) whereas 1 expected
+2024-12-25 09:46:56,231 - pypdf._reader - WARNING - found 0 objects within Object(13336,0) whereas 16 expected
+2024-12-25 09:46:56,238 - pypdf._reader - WARNING - found 0 objects within Object(13337,0) whereas 199 expected
+2024-12-25 09:46:56,244 - pypdf._reader - WARNING - found 0 objects within Object(13338,0) whereas 38 expected
+2024-12-25 09:46:56,247 - pypdf._reader - WARNING - found 0 objects within Object(13339,0) whereas 1 expected
+2024-12-25 09:46:56,256 - pypdf._reader - WARNING - found 0 objects within Object(13340,0) whereas 132 expected
+2024-12-25 09:46:56,260 - pypdf._reader - WARNING - found 0 objects within Object(13341,0) whereas 25 expected
+2024-12-25 09:46:56,265 - pypdf._reader - WARNING - found 0 objects within Object(13342,0) whereas 96 expected
+2024-12-25 09:46:56,270 - pypdf._reader - WARNING - found 0 objects within Object(13343,0) whereas 62 expected
+2024-12-25 09:46:56,274 - pypdf._reader - WARNING - found 0 objects within Object(13344,0) whereas 42 expected
+2024-12-25 09:46:56,283 - pypdf._reader - WARNING - found 0 objects within Object(13345,0) whereas 190 expected
+2024-12-25 09:46:56,294 - pypdf._reader - WARNING - found 0 objects within Object(13346,0) whereas 198 expected
+2024-12-25 09:46:56,295 - pypdf._reader - WARNING - found 0 objects within Object(13347,0) whereas 1 expected
+2024-12-25 09:46:56,298 - pypdf._reader - WARNING - found 0 objects within Object(13348,0) whereas 6 expected
+2024-12-25 09:46:56,303 - pypdf._reader - WARNING - found 0 objects within Object(13349,0) whereas 116 expected
+2024-12-25 09:46:56,313 - pypdf._reader - WARNING - found 0 objects within Object(13350,0) whereas 194 expected
+2024-12-25 09:46:56,321 - pypdf._reader - WARNING - found 0 objects within Object(13351,0) whereas 200 expected
+2024-12-25 09:46:56,331 - pypdf._reader - WARNING - found 0 objects within Object(13352,0) whereas 193 expected
+2024-12-25 09:46:56,337 - pypdf._reader - WARNING - found 0 objects within Object(13353,0) whereas 118 expected
+2024-12-25 09:46:56,338 - pypdf._reader - WARNING - found 0 objects within Object(13354,0) whereas 1 expected
+2024-12-25 09:46:56,346 - pypdf._reader - WARNING - found 0 objects within Object(13355,0) whereas 186 expected
+2024-12-25 09:46:56,355 - pypdf._reader - WARNING - found 0 objects within Object(13356,0) whereas 183 expected
+2024-12-25 09:46:56,362 - pypdf._reader - WARNING - found 0 objects within Object(13357,0) whereas 107 expected
+2024-12-25 09:46:56,371 - pypdf._reader - WARNING - found 0 objects within Object(13358,0) whereas 189 expected
+2024-12-25 09:46:56,373 - pypdf._reader - WARNING - found 0 objects within Object(13359,0) whereas 3 expected
+2024-12-25 09:46:56,378 - pypdf._reader - WARNING - found 0 objects within Object(13360,0) whereas 79 expected
+2024-12-25 09:46:56,384 - pypdf._reader - WARNING - found 0 objects within Object(13361,0) whereas 103 expected
+2024-12-25 09:46:56,402 - pypdf._reader - WARNING - found 0 objects within Object(13362,0) whereas 199 expected
+2024-12-25 09:46:56,404 - pypdf._reader - WARNING - found 0 objects within Object(13363,0) whereas 1 expected
+2024-12-25 09:46:56,408 - pypdf._reader - WARNING - found 0 objects within Object(13364,0) whereas 9 expected
+2024-12-25 09:46:56,423 - pypdf._reader - WARNING - found 0 objects within Object(13365,0) whereas 200 expected
+2024-12-25 09:46:56,427 - pypdf._reader - WARNING - found 0 objects within Object(13366,0) whereas 32 expected
+2024-12-25 09:46:56,429 - pypdf._reader - WARNING - found 0 objects within Object(13367,0) whereas 1 expected
+2024-12-25 09:46:56,430 - pypdf._reader - WARNING - found 0 objects within Object(13368,0) whereas 3 expected
+2024-12-25 09:46:56,434 - pypdf._reader - WARNING - found 0 objects within Object(13369,0) whereas 24 expected
+2024-12-25 09:46:56,437 - pypdf._reader - WARNING - found 0 objects within Object(13370,0) whereas 2 expected
+2024-12-25 09:46:56,453 - pypdf._reader - WARNING - found 0 objects within Object(13371,0) whereas 200 expected
+2024-12-25 09:46:56,459 - pypdf._reader - WARNING - found 0 objects within Object(13372,0) whereas 200 expected
+2024-12-25 09:46:56,466 - pypdf._reader - WARNING - found 0 objects within Object(13373,0) whereas 200 expected
+2024-12-25 09:46:56,473 - pypdf._reader - WARNING - found 0 objects within Object(13374,0) whereas 200 expected
+2024-12-25 09:46:56,478 - pypdf._reader - WARNING - found 0 objects within Object(13375,0) whereas 200 expected
+2024-12-25 09:46:56,483 - pypdf._reader - WARNING - found 0 objects within Object(13376,0) whereas 200 expected
+2024-12-25 09:46:56,489 - pypdf._reader - WARNING - found 0 objects within Object(13377,0) whereas 200 expected
+2024-12-25 09:46:56,494 - pypdf._reader - WARNING - found 0 objects within Object(13378,0) whereas 200 expected
+2024-12-25 09:46:56,500 - pypdf._reader - WARNING - found 0 objects within Object(13379,0) whereas 200 expected
+2024-12-25 09:46:56,506 - pypdf._reader - WARNING - found 0 objects within Object(13380,0) whereas 200 expected
+2024-12-25 09:46:56,511 - pypdf._reader - WARNING - found 0 objects within Object(13381,0) whereas 200 expected
+2024-12-25 09:46:56,517 - pypdf._reader - WARNING - found 0 objects within Object(13382,0) whereas 200 expected
+2024-12-25 09:46:56,523 - pypdf._reader - WARNING - found 0 objects within Object(13383,0) whereas 200 expected
+2024-12-25 09:46:56,528 - pypdf._reader - WARNING - found 0 objects within Object(13384,0) whereas 200 expected
+2024-12-25 09:46:56,534 - pypdf._reader - WARNING - found 0 objects within Object(13385,0) whereas 200 expected
+2024-12-25 09:46:56,539 - pypdf._reader - WARNING - found 0 objects within Object(13386,0) whereas 200 expected
+2024-12-25 09:46:56,546 - pypdf._reader - WARNING - found 0 objects within Object(13387,0) whereas 200 expected
+2024-12-25 09:46:56,552 - pypdf._reader - WARNING - found 0 objects within Object(13388,0) whereas 200 expected
+2024-12-25 09:46:56,557 - pypdf._reader - WARNING - found 0 objects within Object(13389,0) whereas 200 expected
+2024-12-25 09:46:56,563 - pypdf._reader - WARNING - found 0 objects within Object(13390,0) whereas 200 expected
+2024-12-25 09:46:56,570 - pypdf._reader - WARNING - found 0 objects within Object(13391,0) whereas 200 expected
+2024-12-25 09:46:56,576 - pypdf._reader - WARNING - found 0 objects within Object(13392,0) whereas 200 expected
+2024-12-25 09:46:56,581 - pypdf._reader - WARNING - found 0 objects within Object(13393,0) whereas 200 expected
+2024-12-25 09:46:56,587 - pypdf._reader - WARNING - found 0 objects within Object(13394,0) whereas 200 expected
+2024-12-25 09:46:56,592 - pypdf._reader - WARNING - found 0 objects within Object(13395,0) whereas 200 expected
+2024-12-25 09:46:56,599 - pypdf._reader - WARNING - found 0 objects within Object(13396,0) whereas 200 expected
+2024-12-25 09:46:56,605 - pypdf._reader - WARNING - found 0 objects within Object(13397,0) whereas 200 expected
+2024-12-25 09:46:56,610 - pypdf._reader - WARNING - found 0 objects within Object(13398,0) whereas 200 expected
+2024-12-25 09:46:56,616 - pypdf._reader - WARNING - found 0 objects within Object(13399,0) whereas 200 expected
+2024-12-25 09:46:56,622 - pypdf._reader - WARNING - found 0 objects within Object(13400,0) whereas 200 expected
+2024-12-25 09:46:56,637 - pypdf._reader - WARNING - found 0 objects within Object(13401,0) whereas 200 expected
+2024-12-25 09:46:56,654 - pypdf._reader - WARNING - found 0 objects within Object(13402,0) whereas 200 expected
+2024-12-25 09:46:56,670 - pypdf._reader - WARNING - found 0 objects within Object(13403,0) whereas 200 expected
+2024-12-25 09:46:56,688 - pypdf._reader - WARNING - found 0 objects within Object(13404,0) whereas 200 expected
+2024-12-25 09:46:57,428 - pypdf._reader - WARNING - Cannot find "/Root" key in trailer
+2024-12-25 09:46:57,430 - pypdf._reader - WARNING - Searching object with "/Catalog" key
+2024-12-25 09:46:57,431 - src.models.processor - ERROR - Error in document processing: Cannot find Root object in pdf
+2024-12-25 09:51:18,849 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:51:18,851 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:51:18,852 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:51:18,853 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:51:18,854 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:51:18,856 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:51:18,859 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 09:51:20,646 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,648 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,649 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,650 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,652 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,653 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,654 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,655 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,657 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,658 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,659 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,659 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,662 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,663 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,664 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,665 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,666 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,668 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,669 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,670 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,672 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,673 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,674 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,675 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,676 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,678 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,679 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,680 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,682 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,683 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,685 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,686 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,687 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,689 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,690 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,691 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,692 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,694 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,694 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,696 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,697 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,699 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,700 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,701 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,702 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,703 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,704 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,706 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,707 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,708 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,710 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,711 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,712 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,714 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,715 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,716 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,717 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,719 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,720 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,722 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,723 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,724 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,725 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,727 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,728 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,729 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,730 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,732 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,733 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,734 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,736 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,739 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,740 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,742 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,743 - pdfminer.pdftypes - WARNING - Data-loss while decompressing corrupted data
+2024-12-25 09:51:20,982 - src.models.processor - ERROR - Error in document processing: No /Root object! - Is this really a PDF?
+2024-12-25 09:56:00,686 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:56:00,689 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:56:00,689 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:56:00,691 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:56:00,692 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:56:00,693 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:56:00,696 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 09:56:03,626 - src.utils.indexer - INFO - Starting document indexing
+2024-12-25 09:56:03,629 - src.utils.indexer - INFO - Indexed 0 chapters
+2024-12-25 09:56:03,631 - src.models.processor - INFO - Processed 0 paragraphs across 0 chapters
+2024-12-25 09:59:36,954 - src.utils.resources - INFO - System Resources:
+2024-12-25 09:59:36,956 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 09:59:36,958 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 09:59:36,959 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 09:59:36,960 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 09:59:36,961 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 09:59:36,965 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 09:59:38,761 - src.models.processor - INFO - Starting document processing
+2024-12-25 09:59:38,764 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 09:59:38,764 - src.models.processor - INFO - Starting batch processing
+2024-12-25 09:59:38,766 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 09:59:38,790 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 09:59:38,797 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 09:59:38,798 - src.models.processor - INFO - Found 214 chapter mappings
+2024-12-25 09:59:38,801 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 09:59:38,802 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 09:59:38,838 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 09:59:38,853 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 09:59:38,855 - src.models.processor - INFO - Found chapter: ABOUT THE AUTHOR on page 9
+2024-12-25 09:59:38,857 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 09:59:38,860 - src.models.processor - INFO - Found chapter: BRIEF CONTENTS on page 11
+2024-12-25 09:59:38,862 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 09:59:38,866 - src.models.processor - INFO - Found chapter: CONTENTS IN DETAIL on page 13
+2024-12-25 09:59:38,889 - src.models.processor - INFO - Found chapter: FOREWORD on page 21
+2024-12-25 09:59:38,892 - src.models.processor - INFO - Found chapter: ACKNOWLEDGMENTS on page 23
+2024-12-25 09:59:38,893 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 09:59:38,899 - src.models.processor - INFO - Found chapter: What We'll Do on page 25
+2024-12-25 09:59:38,904 - src.models.processor - INFO - Found chapter: New to the Second Edition on page 26
+2024-12-25 09:59:38,907 - src.models.processor - INFO - Found chapter: Who This Book Is For on page 27
+2024-12-25 09:59:38,910 - src.models.processor - INFO - Found chapter: Static Keyword on page 28
+2024-12-25 09:59:38,914 - src.models.processor - INFO - Found chapter: Topic Selection on page 29
+2024-12-25 09:59:38,918 - src.models.processor - INFO - Found chapter: Programming Judges on page 30
+2024-12-25 09:59:38,922 - src.models.processor - INFO - Found chapter: Anatomy of a Problem Description on page 32
+2024-12-25 09:59:38,925 - src.models.processor - INFO - Found chapter: The Problem on page 33
+2024-12-25 09:59:38,928 - src.models.processor - INFO - Found chapter: Solving the Problem on page 34
+2024-12-25 09:59:38,932 - src.models.processor - INFO - Found chapter: Notes on page 36
+2024-12-25 09:59:38,938 - src.models.processor - INFO - Found chapter: Problem 1: Unique Snowflakes on page 37
+2024-12-25 09:59:38,943 - src.models.processor - INFO - Found chapter: The Problem on page 38
+2024-12-25 09:59:38,949 - src.models.processor - INFO - Found chapter: Simplifying the Problem on page 40
+2024-12-25 09:59:38,951 - src.models.processor - INFO - Found chapter: Solving the Core Problem on page 41
+2024-12-25 09:59:38,957 - src.models.processor - INFO - Found chapter: Solution 1: Pairwise Comparisons on page 44
+2024-12-25 09:59:38,967 - src.models.processor - INFO - Found chapter: Solution 2: Doing Less Work on page 48
+2024-12-25 09:59:38,977 - src.models.processor - INFO - Found chapter: Hash Table Design on page 53
+2024-12-25 09:59:38,984 - src.models.processor - INFO - Found chapter: The Problem on page 56
+2024-12-25 09:59:38,986 - src.models.processor - INFO - Found chapter: Solution 1: Looking at All Passwords on page 57
+2024-12-25 09:59:38,991 - src.models.processor - INFO - Found chapter: Solution 2: Using a Hash Table on page 59
+2024-12-25 09:59:39,000 - src.models.processor - INFO - Found chapter: The Problem on page 65
+2024-12-25 09:59:39,003 - src.models.processor - INFO - Found chapter: Thinking About Hash Tables on page 66
+2024-12-25 09:59:39,009 - src.models.processor - INFO - Found chapter: An Ad Hoc Solution on page 68
+2024-12-25 09:59:39,015 - src.models.processor - INFO - Found chapter: Notes on page 71
+2024-12-25 09:59:39,021 - src.models.processor - INFO - Found chapter: Problem 1: Halloween Haul on page 73
+2024-12-25 09:59:39,024 - src.models.processor - INFO - Found chapter: The Problem on page 74
+2024-12-25 09:59:39,027 - src.models.processor - INFO - Found chapter: Binary Trees on page 75
+2024-12-25 09:59:39,032 - src.models.processor - INFO - Found chapter: Representing Binary Trees on page 77
+2024-12-25 09:59:39,042 - src.models.processor - INFO - Found chapter: Collecting All the Candy on page 82
+2024-12-25 09:59:39,052 - src.models.processor - INFO - Found chapter: A Completely Different Solution on page 87
+2024-12-25 09:59:39,065 - src.models.processor - INFO - Found chapter: Walking the Minimum Number of Streets on page 92
+2024-12-25 09:59:39,071 - src.models.processor - INFO - Found chapter: Reading the Input on page 95
+2024-12-25 09:59:39,082 - src.models.processor - INFO - Found chapter: Why Use Recursion? on page 101
+2024-12-25 09:59:39,085 - src.models.processor - INFO - Found chapter: The Problem on page 102
+2024-12-25 09:59:39,090 - src.models.processor - INFO - Found chapter: Reading the Input on page 104
+2024-12-25 09:59:39,096 - src.models.processor - INFO - Found chapter: Number of Descendants from One Node on page 108
+2024-12-25 09:59:39,099 - src.models.processor - INFO - Found chapter: Number of Descendants from All Nodes on page 109
+2024-12-25 09:59:39,102 - src.models.processor - INFO - Found chapter: Sorting Nodes on page 110
+2024-12-25 09:59:39,104 - src.models.processor - INFO - Found chapter: The main Function on page 111
+2024-12-25 09:59:39,107 - src.models.processor - INFO - Found chapter: Notes on page 112
+2024-12-25 09:59:39,113 - src.models.processor - INFO - Found chapter: CHAPTER 3: MEMOIZATION AND DYNAMIC PROGRAMMING on page 113
+2024-12-25 09:59:39,115 - src.models.processor - INFO - Found chapter: Forming a Plan on page 114
+2024-12-25 09:59:39,120 - src.models.processor - INFO - Found chapter: Characterizing Optimal Solutions on page 116
+2024-12-25 09:59:39,124 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 117
+2024-12-25 09:59:39,134 - src.models.processor - INFO - Found chapter: Solution 2: Memoization on page 122
+2024-12-25 09:59:39,142 - src.models.processor - INFO - Found chapter: Solution 3: Dynamic Programming on page 127
+2024-12-25 09:59:39,150 - src.models.processor - INFO - Found chapter: Memoization and Dynamic Programming on page 130
+2024-12-25 09:59:39,153 - src.models.processor - INFO - Found chapter: Step 1: Structure of Optimal Solutions on page 131
+2024-12-25 09:59:39,157 - src.models.processor - INFO - Found chapter: Step 3: Memoization on page 132
+2024-12-25 09:59:39,159 - src.models.processor - INFO - Found chapter: Step 4: Dynamic Programming on page 133
+2024-12-25 09:59:39,162 - src.models.processor - INFO - Found chapter: The Problem on page 134
+2024-12-25 09:59:39,165 - src.models.processor - INFO - Found chapter: Characterizing Optimal Solutions on page 135
+2024-12-25 09:59:39,170 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 137
+2024-12-25 09:59:39,178 - src.models.processor - INFO - Found chapter: The main Function on page 141
+2024-12-25 09:59:39,181 - src.models.processor - INFO - Found chapter: Solution 2: Memoization on page 142
+2024-12-25 09:59:39,184 - src.models.processor - INFO - Found chapter: Problem 3: Hockey Rivalry on page 144
+2024-12-25 09:59:39,189 - src.models.processor - INFO - Found chapter: The Problem on page 145
+2024-12-25 09:59:39,192 - src.models.processor - INFO - Found chapter: About Rivalries on page 146
+2024-12-25 09:59:39,195 - src.models.processor - INFO - Found chapter: Characterizing Optimal Solutions on page 147
+2024-12-25 09:59:39,201 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 150
+2024-12-25 09:59:39,207 - src.models.processor - INFO - Found chapter: Solution 2: Memoization on page 153
+2024-12-25 09:59:39,211 - src.models.processor - INFO - Found chapter: Solution 3: Dynamic Programming on page 155
+2024-12-25 09:59:39,218 - src.models.processor - INFO - Found chapter: A Space Optimization on page 158
+2024-12-25 09:59:39,220 - src.models.processor - INFO - Found chapter: Notes on page 159
+2024-12-25 09:59:39,222 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 09:59:39,228 - src.models.processor - INFO - Found chapter: Problem 1: The Jumper on page 161
+2024-12-25 09:59:39,230 - src.models.processor - INFO - Found chapter: The Problem on page 162
+2024-12-25 09:59:39,232 - src.models.processor - INFO - Found chapter: Working Through an Example on page 163
+2024-12-25 09:59:39,235 - src.models.processor - INFO - Found chapter: Solution 1: Backward Formulation on page 164
+2024-12-25 09:59:39,244 - src.models.processor - INFO - Found chapter: Solution 2: Forward Formulation on page 169
+2024-12-25 09:59:39,252 - src.models.processor - INFO - Found chapter: Problem 2: Ways to Build on page 173
+2024-12-25 09:59:39,254 - src.models.processor - INFO - Found chapter: The Problem on page 174
+2024-12-25 09:59:39,258 - src.models.processor - INFO - Found chapter: Working Through an Example on page 175
+2024-12-25 09:59:39,261 - src.models.processor - INFO - Found chapter: Solution 1: Using ``Exactly'' Subproblems on page 176
+2024-12-25 09:59:39,268 - src.models.processor - INFO - Found chapter: Solution 2: Adding More Subproblems on page 180
+2024-12-25 09:59:39,277 - src.models.processor - INFO - Found chapter: Notes on page 185
+2024-12-25 09:59:39,278 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 09:59:39,284 - src.models.processor - INFO - Found chapter: Problem 1: Knight Chase on page 187
+2024-12-25 09:59:39,289 - src.models.processor - INFO - Found chapter: The Problem on page 188
+2024-12-25 09:59:39,292 - src.models.processor - INFO - Found chapter: Moving Optimally on page 189
+2024-12-25 09:59:39,313 - src.models.processor - INFO - Found chapter: Best Knight Outcome on page 199
+2024-12-25 09:59:39,317 - src.models.processor - INFO - Found chapter: The Knight Flip-Flop on page 201
+2024-12-25 09:59:39,324 - src.models.processor - INFO - Found chapter: A Time Optimization on page 204
+2024-12-25 09:59:39,327 - src.models.processor - INFO - Found chapter: What Are Graphs? on page 205
+2024-12-25 09:59:39,331 - src.models.processor - INFO - Found chapter: Graphs vs. Trees on page 206
+2024-12-25 09:59:39,335 - src.models.processor - INFO - Found chapter: BFS on Graphs on page 208
+2024-12-25 09:59:39,338 - src.models.processor - INFO - Found chapter: The Problem on page 209
+2024-12-25 09:59:39,341 - src.models.processor - INFO - Found chapter: Solution 1: Finding the Moves on page 210
+2024-12-25 09:59:39,350 - src.models.processor - INFO - Found chapter: Solution 2: A Remodel on page 215
+2024-12-25 09:59:39,365 - src.models.processor - INFO - Found chapter: The Problem on page 223
+2024-12-25 09:59:39,367 - src.models.processor - INFO - Found chapter: Reading the Language Names on page 224
+2024-12-25 09:59:39,369 - src.models.processor - INFO - Found chapter: Building the Graph on page 225
+2024-12-25 09:59:39,375 - src.models.processor - INFO - Found chapter: The BFS on page 228
+2024-12-25 09:59:39,379 - src.models.processor - INFO - Found chapter: The Total Cost on page 230
+2024-12-25 09:59:39,382 - src.models.processor - INFO - Found chapter: Notes on page 231
+2024-12-25 09:59:39,382 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 09:59:39,389 - src.models.processor - INFO - Found chapter: CHAPTER 6: SHORTEST PATHS IN WEIGHTED GRAPHS on page 233
+2024-12-25 09:59:39,392 - src.models.processor - INFO - Found chapter: The Problem on page 234
+2024-12-25 09:59:39,396 - src.models.processor - INFO - Found chapter: Moving On from BFS on page 235
+2024-12-25 09:59:39,400 - src.models.processor - INFO - Found chapter: Finding Shortest Paths in Weighted Graphs on page 236
+2024-12-25 09:59:39,409 - src.models.processor - INFO - Found chapter: Building the Graph on page 239
+2024-12-25 09:59:39,414 - src.models.processor - INFO - Found chapter: Implementing Dijkstra's Algorithm on page 241
+2024-12-25 09:59:39,419 - src.models.processor - INFO - Found chapter: Two Optimizations on page 243
+2024-12-25 09:59:39,424 - src.models.processor - INFO - Found chapter: Runtime of Dijkstra's Algorithm on page 246
+2024-12-25 09:59:39,428 - src.models.processor - INFO - Found chapter: Negative-Weight Edges on page 247
+2024-12-25 09:59:39,435 - src.models.processor - INFO - Found chapter: The Problem on page 249
+2024-12-25 09:59:39,437 - src.models.processor - INFO - Found chapter: Adjacency Matrix on page 250
+2024-12-25 09:59:39,440 - src.models.processor - INFO - Found chapter: Building the Graph on page 251
+2024-12-25 09:59:39,445 - src.models.processor - INFO - Found chapter: Working Through a Weird Test Case on page 253
+2024-12-25 09:59:39,450 - src.models.processor - INFO - Found chapter: Task 1: Shortest Paths on page 255
+2024-12-25 09:59:39,457 - src.models.processor - INFO - Found chapter: Task 2: Number of Shortest Paths on page 258
+2024-12-25 09:59:39,471 - src.models.processor - INFO - Found chapter: Summary on page 264
+2024-12-25 09:59:39,473 - src.models.processor - INFO - Found chapter: Notes on page 265
+2024-12-25 09:59:39,474 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 09:59:39,480 - src.models.processor - INFO - Found chapter: Problem 1: Feeding Ants on page 267
+2024-12-25 09:59:39,484 - src.models.processor - INFO - Found chapter: The Problem on page 268
+2024-12-25 09:59:39,486 - src.models.processor - INFO - Found chapter: A New Flavor of Tree Problem on page 269
+2024-12-25 09:59:39,490 - src.models.processor - INFO - Found chapter: Reading the Input on page 271
+2024-12-25 09:59:39,496 - src.models.processor - INFO - Found chapter: Testing Feasibility on page 273
+2024-12-25 09:59:39,501 - src.models.processor - INFO - Found chapter: Searching for a Solution on page 275
+2024-12-25 09:59:39,504 - src.models.processor - INFO - Found chapter: Binary Search on page 276
+2024-12-25 09:59:39,507 - src.models.processor - INFO - Found chapter: Runtime of Binary Search on page 277
+2024-12-25 09:59:39,510 - src.models.processor - INFO - Found chapter: Searching a Sorted Array on page 278
+2024-12-25 09:59:39,513 - src.models.processor - INFO - Found chapter: The Problem on page 279
+2024-12-25 09:59:39,516 - src.models.processor - INFO - Found chapter: A Greedy Idea on page 280
+2024-12-25 09:59:39,519 - src.models.processor - INFO - Found chapter: Testing Feasibility on page 282
+2024-12-25 09:59:39,529 - src.models.processor - INFO - Found chapter: Searching for a Solution on page 286
+2024-12-25 09:59:39,534 - src.models.processor - INFO - Found chapter: Reading the Input on page 289
+2024-12-25 09:59:39,537 - src.models.processor - INFO - Found chapter: The Problem on page 290
+2024-12-25 09:59:39,542 - src.models.processor - INFO - Found chapter: Sorting Every Rectangle on page 292
+2024-12-25 09:59:39,550 - src.models.processor - INFO - Found chapter: Using Binary Search on page 295
+2024-12-25 09:59:39,553 - src.models.processor - INFO - Found chapter: Testing Feasibility on page 296
+2024-12-25 09:59:39,556 - src.models.processor - INFO - Found chapter: A Quicker Way to Test Feasibility on page 297
+2024-12-25 09:59:39,578 - src.models.processor - INFO - Found chapter: The Problem on page 303
+2024-12-25 09:59:39,582 - src.models.processor - INFO - Found chapter: Solving a Subtask on page 304
+2024-12-25 09:59:39,586 - src.models.processor - INFO - Found chapter: Using Linear Search on page 306
+2024-12-25 09:59:39,591 - src.models.processor - INFO - Found chapter: Using Binary Search on page 308
+2024-12-25 09:59:39,595 - src.models.processor - INFO - Found chapter: Summary on page 310
+2024-12-25 09:59:39,598 - src.models.processor - INFO - Found chapter: Notes on page 311
+2024-12-25 09:59:39,599 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 09:59:39,605 - src.models.processor - INFO - Found chapter: The Problem on page 313
+2024-12-25 09:59:39,608 - src.models.processor - INFO - Found chapter: Solution 1: Maximum and Minimum in an Array on page 314
+2024-12-25 09:59:39,615 - src.models.processor - INFO - Found chapter: Max-Heaps on page 318
+2024-12-25 09:59:39,635 - src.models.processor - INFO - Found chapter: Min-Heaps on page 329
+2024-12-25 09:59:39,639 - src.models.processor - INFO - Found chapter: Solution 2: Heaps on page 331
+2024-12-25 09:59:39,646 - src.models.processor - INFO - Found chapter: Two More Applications on page 334
+2024-12-25 09:59:39,650 - src.models.processor - INFO - Found chapter: The Problem on page 336
+2024-12-25 09:59:39,655 - src.models.processor - INFO - Found chapter: Recursively Outputting Treaps on page 338
+2024-12-25 09:59:39,658 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 339
+2024-12-25 09:59:39,667 - src.models.processor - INFO - Found chapter: Range Maximum Queries on page 343
+2024-12-25 09:59:39,671 - src.models.processor - INFO - Found chapter: Segment Trees on page 344
+2024-12-25 09:59:39,686 - src.models.processor - INFO - Found chapter: Solution 2: Segment Trees on page 352
+2024-12-25 09:59:39,689 - src.models.processor - INFO - Found chapter: Segment Trees on page 353
+2024-12-25 09:59:39,692 - src.models.processor - INFO - Found chapter: The Problem on page 354
+2024-12-25 09:59:39,696 - src.models.processor - INFO - Found chapter: Filling the Segment Tree on page 355
+2024-12-25 09:59:39,705 - src.models.processor - INFO - Found chapter: Querying the Segment Tree on page 359
+2024-12-25 09:59:39,707 - src.models.processor - INFO - Found chapter: Updating the Segment Tree on page 360
+2024-12-25 09:59:39,715 - src.models.processor - INFO - Found chapter: The main Function on page 364
+2024-12-25 09:59:39,717 - src.models.processor - INFO - Found chapter: Notes on page 365
+2024-12-25 09:59:39,719 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 09:59:39,725 - src.models.processor - INFO - Found chapter: CHAPTER 9: UNION-FIND on page 367
+2024-12-25 09:59:39,728 - src.models.processor - INFO - Found chapter: The Problem on page 368
+2024-12-25 09:59:39,730 - src.models.processor - INFO - Found chapter: Modeling as a Graph on page 369
+2024-12-25 09:59:39,737 - src.models.processor - INFO - Found chapter: Solution 1: BFS on page 372
+2024-12-25 09:59:39,745 - src.models.processor - INFO - Found chapter: Union-Find on page 376
+2024-12-25 09:59:39,753 - src.models.processor - INFO - Found chapter: Solution 2: Union-Find on page 379
+2024-12-25 09:59:39,758 - src.models.processor - INFO - Found chapter: Optimization 1: Union by Size on page 382
+2024-12-25 09:59:39,766 - src.models.processor - INFO - Found chapter: Optimization 2: Path Compression on page 386
+2024-12-25 09:59:39,771 - src.models.processor - INFO - Found chapter: Union-Find on page 388
+2024-12-25 09:59:39,775 - src.models.processor - INFO - Found chapter: Optimizations on page 389
+2024-12-25 09:59:39,778 - src.models.processor - INFO - Found chapter: The Problem on page 390
+2024-12-25 09:59:39,781 - src.models.processor - INFO - Found chapter: Augmenting Union-Find on page 391
+2024-12-25 09:59:39,790 - src.models.processor - INFO - Found chapter: The main Function on page 395
+2024-12-25 09:59:39,792 - src.models.processor - INFO - Found chapter: Find and Union on page 396
+2024-12-25 09:59:39,794 - src.models.processor - INFO - Found chapter: SetFriends and SetEnemies on page 397
+2024-12-25 09:59:39,799 - src.models.processor - INFO - Found chapter: AreFriends and AreEnemies on page 399
+2024-12-25 09:59:39,802 - src.models.processor - INFO - Found chapter: The Problem on page 400
+2024-12-25 09:59:39,805 - src.models.processor - INFO - Found chapter: Equivalent Drawers on page 401
+2024-12-25 09:59:39,812 - src.models.processor - INFO - Found chapter: The main Function on page 406
+2024-12-25 09:59:39,816 - src.models.processor - INFO - Found chapter: Find and Union on page 408
+2024-12-25 09:59:39,818 - src.models.processor - INFO - Found chapter: Notes on page 409
+2024-12-25 09:59:39,819 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 09:59:39,825 - src.models.processor - INFO - Found chapter: CHAPTER 10: RANDOMIZATION on page 411
+2024-12-25 09:59:39,828 - src.models.processor - INFO - Found chapter: Randomly Choosing a Piece on page 412
+2024-12-25 09:59:39,834 - src.models.processor - INFO - Found chapter: Generating Random Numbers on page 414
+2024-12-25 09:59:39,838 - src.models.processor - INFO - Found chapter: Determining Number of Pieces on page 415
+2024-12-25 09:59:39,843 - src.models.processor - INFO - Found chapter: Guessing Flavors on page 417
+2024-12-25 09:59:39,849 - src.models.processor - INFO - Found chapter: How Many Attempts Do We Need? on page 420
+2024-12-25 09:59:39,853 - src.models.processor - INFO - Found chapter: Filling the Flavor Arrays on page 421
+2024-12-25 09:59:39,855 - src.models.processor - INFO - Found chapter: The main Function on page 422
+2024-12-25 09:59:39,858 - src.models.processor - INFO - Found chapter: Monte Carlo Algorithms on page 423
+2024-12-25 09:59:39,861 - src.models.processor - INFO - Found chapter: Las Vegas Algorithms on page 424
+2024-12-25 09:59:39,865 - src.models.processor - INFO - Found chapter: Deterministic vs. Randomized Algorithms on page 425
+2024-12-25 09:59:39,868 - src.models.processor - INFO - Found chapter: The Problem on page 426
+2024-12-25 09:59:39,871 - src.models.processor - INFO - Found chapter: Solving a Subtask on page 427
+2024-12-25 09:59:39,876 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 429
+2024-12-25 09:59:39,881 - src.models.processor - INFO - Found chapter: Solution 2: Adding Randomization on page 432
+2024-12-25 09:59:39,886 - src.models.processor - INFO - Found chapter: Implementing Quicksort on page 434
+2024-12-25 09:59:39,890 - src.models.processor - INFO - Found chapter: Worst-Case and Expected Runtime on page 436
+2024-12-25 09:59:39,896 - src.models.processor - INFO - Found chapter: Notes on page 438
+2024-12-25 09:59:39,901 - src.models.processor - INFO - Found chapter: AFTERWORD on page 439
+2024-12-25 09:59:39,908 - src.models.processor - INFO - Found chapter: The Case for Timing...and Something Else on page 441
+2024-12-25 09:59:39,914 - src.models.processor - INFO - Found chapter: Linear Time on page 443
+2024-12-25 09:59:39,917 - src.models.processor - INFO - Found chapter: Constant Time on page 444
+2024-12-25 09:59:39,919 - src.models.processor - INFO - Found chapter: Quadratic Time on page 445
+2024-12-25 09:59:39,922 - src.models.processor - INFO - Found chapter: Big O in This Book on page 446
+2024-12-25 09:59:39,929 - src.models.processor - INFO - Found chapter: Unique Snowflakes: Implicit Linked Lists on page 447
+2024-12-25 09:59:39,935 - src.models.processor - INFO - Found chapter: Burger Fervor: Reconstructing a Solution on page 450
+2024-12-25 09:59:39,940 - src.models.processor - INFO - Found chapter: Knight Chase: Encoding Moves on page 452
+2024-12-25 09:59:39,944 - src.models.processor - INFO - Found chapter: Mice Maze: Tracing with Heaps on page 454
+2024-12-25 09:59:39,952 - src.models.processor - INFO - Found chapter: Mice Maze: Implementation with Heaps on page 457
+2024-12-25 09:59:39,956 - src.models.processor - INFO - Found chapter: Compressing Path Compression on page 458
+2024-12-25 09:59:39,970 - src.models.processor - INFO - Found chapter: Step 2: Cleaner Assignment Operator on page 459
+2024-12-25 09:59:39,975 - src.models.processor - INFO - Found chapter: Caps and Bottles: In-Place Sorting on page 460
+2024-12-25 09:59:39,987 - src.models.processor - INFO - Found chapter: APPENDIX C: PROBLEM CREDITS on page 463
+2024-12-25 09:59:39,992 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 09:59:39,997 - src.models.processor - INFO - Found chapter: INDEX on page 467
+2024-12-25 09:59:40,013 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 09:59:40,018 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 09:59:40,021 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 09:59:40,022 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 09:59:40,023 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 09:59:40,024 - src.models.processor - INFO - PDF processing complete. Processed 482 pages, Found content in 462 pages
+2024-12-25 09:59:40,322 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 09:59:40,327 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 09:59:40,332 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 09:59:40,336 - src.models.processor - INFO - Starting chapter indexing
+2024-12-25 09:59:40,339 - src.utils.indexer - INFO - Starting document indexing
+2024-12-25 09:59:40,341 - src.utils.indexer - INFO - Indexed 0 chapters
+2024-12-25 09:59:40,343 - src.models.processor - INFO - Chapter indexing complete. Found 0 chapters
+2024-12-25 09:59:40,343 - src.models.processor - INFO - Enhanced document creation complete. Created 0 documents across 0 chapters
+2024-12-25 09:59:40,345 - src.models.processor - ERROR - No enhanced documents were created
+2024-12-25 09:59:40,346 - src.models.processor - ERROR - Error in document processing: No enhanced documents were created
+2024-12-25 10:07:14,062 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:07:14,064 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:07:14,065 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:07:14,066 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:07:14,067 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:07:14,068 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:07:14,072 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:07:15,869 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:07:15,870 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:07:15,871 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:07:15,872 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:07:15,895 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:07:15,902 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:07:15,904 - src.models.processor - INFO - Found 214 chapter mappings
+2024-12-25 10:07:15,905 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:07:15,907 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:07:15,944 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:07:15,957 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:07:15,959 - src.models.processor - INFO - Found chapter: ABOUT THE AUTHOR on page 9
+2024-12-25 10:07:15,961 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:07:15,965 - src.models.processor - INFO - Found chapter: BRIEF CONTENTS on page 11
+2024-12-25 10:07:15,966 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:07:15,969 - src.models.processor - INFO - Found chapter: CONTENTS IN DETAIL on page 13
+2024-12-25 10:07:15,993 - src.models.processor - INFO - Found chapter: FOREWORD on page 21
+2024-12-25 10:07:15,996 - src.models.processor - INFO - Found chapter: ACKNOWLEDGMENTS on page 23
+2024-12-25 10:07:15,997 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:07:16,004 - src.models.processor - INFO - Found chapter: What We'll Do on page 25
+2024-12-25 10:07:16,008 - src.models.processor - INFO - Found chapter: New to the Second Edition on page 26
+2024-12-25 10:07:16,011 - src.models.processor - INFO - Found chapter: Who This Book Is For on page 27
+2024-12-25 10:07:16,015 - src.models.processor - INFO - Found chapter: Static Keyword on page 28
+2024-12-25 10:07:16,019 - src.models.processor - INFO - Found chapter: Topic Selection on page 29
+2024-12-25 10:07:16,022 - src.models.processor - INFO - Found chapter: Programming Judges on page 30
+2024-12-25 10:07:16,026 - src.models.processor - INFO - Found chapter: Anatomy of a Problem Description on page 32
+2024-12-25 10:07:16,030 - src.models.processor - INFO - Found chapter: The Problem on page 33
+2024-12-25 10:07:16,032 - src.models.processor - INFO - Found chapter: Solving the Problem on page 34
+2024-12-25 10:07:16,036 - src.models.processor - INFO - Found chapter: Notes on page 36
+2024-12-25 10:07:16,043 - src.models.processor - INFO - Found chapter: Problem 1: Unique Snowflakes on page 37
+2024-12-25 10:07:16,046 - src.models.processor - INFO - Found chapter: The Problem on page 38
+2024-12-25 10:07:16,052 - src.models.processor - INFO - Found chapter: Simplifying the Problem on page 40
+2024-12-25 10:07:16,055 - src.models.processor - INFO - Found chapter: Solving the Core Problem on page 41
+2024-12-25 10:07:16,062 - src.models.processor - INFO - Found chapter: Solution 1: Pairwise Comparisons on page 44
+2024-12-25 10:07:16,071 - src.models.processor - INFO - Found chapter: Solution 2: Doing Less Work on page 48
+2024-12-25 10:07:16,081 - src.models.processor - INFO - Found chapter: Hash Table Design on page 53
+2024-12-25 10:07:16,087 - src.models.processor - INFO - Found chapter: The Problem on page 56
+2024-12-25 10:07:16,090 - src.models.processor - INFO - Found chapter: Solution 1: Looking at All Passwords on page 57
+2024-12-25 10:07:16,094 - src.models.processor - INFO - Found chapter: Solution 2: Using a Hash Table on page 59
+2024-12-25 10:07:16,104 - src.models.processor - INFO - Found chapter: The Problem on page 65
+2024-12-25 10:07:16,107 - src.models.processor - INFO - Found chapter: Thinking About Hash Tables on page 66
+2024-12-25 10:07:16,113 - src.models.processor - INFO - Found chapter: An Ad Hoc Solution on page 68
+2024-12-25 10:07:16,119 - src.models.processor - INFO - Found chapter: Notes on page 71
+2024-12-25 10:07:16,126 - src.models.processor - INFO - Found chapter: Problem 1: Halloween Haul on page 73
+2024-12-25 10:07:16,128 - src.models.processor - INFO - Found chapter: The Problem on page 74
+2024-12-25 10:07:16,131 - src.models.processor - INFO - Found chapter: Binary Trees on page 75
+2024-12-25 10:07:16,136 - src.models.processor - INFO - Found chapter: Representing Binary Trees on page 77
+2024-12-25 10:07:16,145 - src.models.processor - INFO - Found chapter: Collecting All the Candy on page 82
+2024-12-25 10:07:16,155 - src.models.processor - INFO - Found chapter: A Completely Different Solution on page 87
+2024-12-25 10:07:16,167 - src.models.processor - INFO - Found chapter: Walking the Minimum Number of Streets on page 92
+2024-12-25 10:07:16,174 - src.models.processor - INFO - Found chapter: Reading the Input on page 95
+2024-12-25 10:07:16,184 - src.models.processor - INFO - Found chapter: Why Use Recursion? on page 101
+2024-12-25 10:07:16,187 - src.models.processor - INFO - Found chapter: The Problem on page 102
+2024-12-25 10:07:16,191 - src.models.processor - INFO - Found chapter: Reading the Input on page 104
+2024-12-25 10:07:16,198 - src.models.processor - INFO - Found chapter: Number of Descendants from One Node on page 108
+2024-12-25 10:07:16,200 - src.models.processor - INFO - Found chapter: Number of Descendants from All Nodes on page 109
+2024-12-25 10:07:16,203 - src.models.processor - INFO - Found chapter: Sorting Nodes on page 110
+2024-12-25 10:07:16,206 - src.models.processor - INFO - Found chapter: The main Function on page 111
+2024-12-25 10:07:16,209 - src.models.processor - INFO - Found chapter: Notes on page 112
+2024-12-25 10:07:16,215 - src.models.processor - INFO - Found chapter: CHAPTER 3: MEMOIZATION AND DYNAMIC PROGRAMMING on page 113
+2024-12-25 10:07:16,218 - src.models.processor - INFO - Found chapter: Forming a Plan on page 114
+2024-12-25 10:07:16,224 - src.models.processor - INFO - Found chapter: Characterizing Optimal Solutions on page 116
+2024-12-25 10:07:16,227 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 117
+2024-12-25 10:07:16,236 - src.models.processor - INFO - Found chapter: Solution 2: Memoization on page 122
+2024-12-25 10:07:16,245 - src.models.processor - INFO - Found chapter: Solution 3: Dynamic Programming on page 127
+2024-12-25 10:07:16,252 - src.models.processor - INFO - Found chapter: Memoization and Dynamic Programming on page 130
+2024-12-25 10:07:16,255 - src.models.processor - INFO - Found chapter: Step 1: Structure of Optimal Solutions on page 131
+2024-12-25 10:07:16,259 - src.models.processor - INFO - Found chapter: Step 3: Memoization on page 132
+2024-12-25 10:07:16,262 - src.models.processor - INFO - Found chapter: Step 4: Dynamic Programming on page 133
+2024-12-25 10:07:16,265 - src.models.processor - INFO - Found chapter: The Problem on page 134
+2024-12-25 10:07:16,268 - src.models.processor - INFO - Found chapter: Characterizing Optimal Solutions on page 135
+2024-12-25 10:07:16,273 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 137
+2024-12-25 10:07:16,280 - src.models.processor - INFO - Found chapter: The main Function on page 141
+2024-12-25 10:07:16,283 - src.models.processor - INFO - Found chapter: Solution 2: Memoization on page 142
+2024-12-25 10:07:16,287 - src.models.processor - INFO - Found chapter: Problem 3: Hockey Rivalry on page 144
+2024-12-25 10:07:16,292 - src.models.processor - INFO - Found chapter: The Problem on page 145
+2024-12-25 10:07:16,295 - src.models.processor - INFO - Found chapter: About Rivalries on page 146
+2024-12-25 10:07:16,298 - src.models.processor - INFO - Found chapter: Characterizing Optimal Solutions on page 147
+2024-12-25 10:07:16,304 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 150
+2024-12-25 10:07:16,309 - src.models.processor - INFO - Found chapter: Solution 2: Memoization on page 153
+2024-12-25 10:07:16,313 - src.models.processor - INFO - Found chapter: Solution 3: Dynamic Programming on page 155
+2024-12-25 10:07:16,320 - src.models.processor - INFO - Found chapter: A Space Optimization on page 158
+2024-12-25 10:07:16,323 - src.models.processor - INFO - Found chapter: Notes on page 159
+2024-12-25 10:07:16,324 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:07:16,330 - src.models.processor - INFO - Found chapter: Problem 1: The Jumper on page 161
+2024-12-25 10:07:16,332 - src.models.processor - INFO - Found chapter: The Problem on page 162
+2024-12-25 10:07:16,334 - src.models.processor - INFO - Found chapter: Working Through an Example on page 163
+2024-12-25 10:07:16,337 - src.models.processor - INFO - Found chapter: Solution 1: Backward Formulation on page 164
+2024-12-25 10:07:16,345 - src.models.processor - INFO - Found chapter: Solution 2: Forward Formulation on page 169
+2024-12-25 10:07:16,353 - src.models.processor - INFO - Found chapter: Problem 2: Ways to Build on page 173
+2024-12-25 10:07:16,356 - src.models.processor - INFO - Found chapter: The Problem on page 174
+2024-12-25 10:07:16,360 - src.models.processor - INFO - Found chapter: Working Through an Example on page 175
+2024-12-25 10:07:16,363 - src.models.processor - INFO - Found chapter: Solution 1: Using ``Exactly'' Subproblems on page 176
+2024-12-25 10:07:16,370 - src.models.processor - INFO - Found chapter: Solution 2: Adding More Subproblems on page 180
+2024-12-25 10:07:16,379 - src.models.processor - INFO - Found chapter: Notes on page 185
+2024-12-25 10:07:16,380 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:07:16,386 - src.models.processor - INFO - Found chapter: Problem 1: Knight Chase on page 187
+2024-12-25 10:07:16,390 - src.models.processor - INFO - Found chapter: The Problem on page 188
+2024-12-25 10:07:16,393 - src.models.processor - INFO - Found chapter: Moving Optimally on page 189
+2024-12-25 10:07:16,415 - src.models.processor - INFO - Found chapter: Best Knight Outcome on page 199
+2024-12-25 10:07:16,419 - src.models.processor - INFO - Found chapter: The Knight Flip-Flop on page 201
+2024-12-25 10:07:16,425 - src.models.processor - INFO - Found chapter: A Time Optimization on page 204
+2024-12-25 10:07:16,429 - src.models.processor - INFO - Found chapter: What Are Graphs? on page 205
+2024-12-25 10:07:16,432 - src.models.processor - INFO - Found chapter: Graphs vs. Trees on page 206
+2024-12-25 10:07:16,437 - src.models.processor - INFO - Found chapter: BFS on Graphs on page 208
+2024-12-25 10:07:16,440 - src.models.processor - INFO - Found chapter: The Problem on page 209
+2024-12-25 10:07:16,442 - src.models.processor - INFO - Found chapter: Solution 1: Finding the Moves on page 210
+2024-12-25 10:07:16,452 - src.models.processor - INFO - Found chapter: Solution 2: A Remodel on page 215
+2024-12-25 10:07:16,466 - src.models.processor - INFO - Found chapter: The Problem on page 223
+2024-12-25 10:07:16,469 - src.models.processor - INFO - Found chapter: Reading the Language Names on page 224
+2024-12-25 10:07:16,472 - src.models.processor - INFO - Found chapter: Building the Graph on page 225
+2024-12-25 10:07:16,477 - src.models.processor - INFO - Found chapter: The BFS on page 228
+2024-12-25 10:07:16,480 - src.models.processor - INFO - Found chapter: The Total Cost on page 230
+2024-12-25 10:07:16,483 - src.models.processor - INFO - Found chapter: Notes on page 231
+2024-12-25 10:07:16,484 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:07:16,490 - src.models.processor - INFO - Found chapter: CHAPTER 6: SHORTEST PATHS IN WEIGHTED GRAPHS on page 233
+2024-12-25 10:07:16,493 - src.models.processor - INFO - Found chapter: The Problem on page 234
+2024-12-25 10:07:16,498 - src.models.processor - INFO - Found chapter: Moving On from BFS on page 235
+2024-12-25 10:07:16,503 - src.models.processor - INFO - Found chapter: Finding Shortest Paths in Weighted Graphs on page 236
+2024-12-25 10:07:16,512 - src.models.processor - INFO - Found chapter: Building the Graph on page 239
+2024-12-25 10:07:16,516 - src.models.processor - INFO - Found chapter: Implementing Dijkstra's Algorithm on page 241
+2024-12-25 10:07:16,520 - src.models.processor - INFO - Found chapter: Two Optimizations on page 243
+2024-12-25 10:07:16,528 - src.models.processor - INFO - Found chapter: Runtime of Dijkstra's Algorithm on page 246
+2024-12-25 10:07:16,531 - src.models.processor - INFO - Found chapter: Negative-Weight Edges on page 247
+2024-12-25 10:07:16,536 - src.models.processor - INFO - Found chapter: The Problem on page 249
+2024-12-25 10:07:16,540 - src.models.processor - INFO - Found chapter: Adjacency Matrix on page 250
+2024-12-25 10:07:16,543 - src.models.processor - INFO - Found chapter: Building the Graph on page 251
+2024-12-25 10:07:16,548 - src.models.processor - INFO - Found chapter: Working Through a Weird Test Case on page 253
+2024-12-25 10:07:16,553 - src.models.processor - INFO - Found chapter: Task 1: Shortest Paths on page 255
+2024-12-25 10:07:16,560 - src.models.processor - INFO - Found chapter: Task 2: Number of Shortest Paths on page 258
+2024-12-25 10:07:16,573 - src.models.processor - INFO - Found chapter: Summary on page 264
+2024-12-25 10:07:16,575 - src.models.processor - INFO - Found chapter: Notes on page 265
+2024-12-25 10:07:16,577 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:07:16,583 - src.models.processor - INFO - Found chapter: Problem 1: Feeding Ants on page 267
+2024-12-25 10:07:16,586 - src.models.processor - INFO - Found chapter: The Problem on page 268
+2024-12-25 10:07:16,588 - src.models.processor - INFO - Found chapter: A New Flavor of Tree Problem on page 269
+2024-12-25 10:07:16,594 - src.models.processor - INFO - Found chapter: Reading the Input on page 271
+2024-12-25 10:07:16,598 - src.models.processor - INFO - Found chapter: Testing Feasibility on page 273
+2024-12-25 10:07:16,603 - src.models.processor - INFO - Found chapter: Searching for a Solution on page 275
+2024-12-25 10:07:16,606 - src.models.processor - INFO - Found chapter: Binary Search on page 276
+2024-12-25 10:07:16,609 - src.models.processor - INFO - Found chapter: Runtime of Binary Search on page 277
+2024-12-25 10:07:16,612 - src.models.processor - INFO - Found chapter: Searching a Sorted Array on page 278
+2024-12-25 10:07:16,615 - src.models.processor - INFO - Found chapter: The Problem on page 279
+2024-12-25 10:07:16,617 - src.models.processor - INFO - Found chapter: A Greedy Idea on page 280
+2024-12-25 10:07:16,622 - src.models.processor - INFO - Found chapter: Testing Feasibility on page 282
+2024-12-25 10:07:16,631 - src.models.processor - INFO - Found chapter: Searching for a Solution on page 286
+2024-12-25 10:07:16,636 - src.models.processor - INFO - Found chapter: Reading the Input on page 289
+2024-12-25 10:07:16,639 - src.models.processor - INFO - Found chapter: The Problem on page 290
+2024-12-25 10:07:16,644 - src.models.processor - INFO - Found chapter: Sorting Every Rectangle on page 292
+2024-12-25 10:07:16,651 - src.models.processor - INFO - Found chapter: Using Binary Search on page 295
+2024-12-25 10:07:16,654 - src.models.processor - INFO - Found chapter: Testing Feasibility on page 296
+2024-12-25 10:07:16,658 - src.models.processor - INFO - Found chapter: A Quicker Way to Test Feasibility on page 297
+2024-12-25 10:07:16,679 - src.models.processor - INFO - Found chapter: The Problem on page 303
+2024-12-25 10:07:16,682 - src.models.processor - INFO - Found chapter: Solving a Subtask on page 304
+2024-12-25 10:07:16,688 - src.models.processor - INFO - Found chapter: Using Linear Search on page 306
+2024-12-25 10:07:16,692 - src.models.processor - INFO - Found chapter: Using Binary Search on page 308
+2024-12-25 10:07:16,696 - src.models.processor - INFO - Found chapter: Summary on page 310
+2024-12-25 10:07:16,698 - src.models.processor - INFO - Found chapter: Notes on page 311
+2024-12-25 10:07:16,700 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:07:16,706 - src.models.processor - INFO - Found chapter: The Problem on page 313
+2024-12-25 10:07:16,709 - src.models.processor - INFO - Found chapter: Solution 1: Maximum and Minimum in an Array on page 314
+2024-12-25 10:07:16,716 - src.models.processor - INFO - Found chapter: Max-Heaps on page 318
+2024-12-25 10:07:16,736 - src.models.processor - INFO - Found chapter: Min-Heaps on page 329
+2024-12-25 10:07:16,740 - src.models.processor - INFO - Found chapter: Solution 2: Heaps on page 331
+2024-12-25 10:07:16,746 - src.models.processor - INFO - Found chapter: Two More Applications on page 334
+2024-12-25 10:07:16,751 - src.models.processor - INFO - Found chapter: The Problem on page 336
+2024-12-25 10:07:16,756 - src.models.processor - INFO - Found chapter: Recursively Outputting Treaps on page 338
+2024-12-25 10:07:16,759 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 339
+2024-12-25 10:07:16,767 - src.models.processor - INFO - Found chapter: Range Maximum Queries on page 343
+2024-12-25 10:07:16,771 - src.models.processor - INFO - Found chapter: Segment Trees on page 344
+2024-12-25 10:07:16,787 - src.models.processor - INFO - Found chapter: Solution 2: Segment Trees on page 352
+2024-12-25 10:07:16,790 - src.models.processor - INFO - Found chapter: Segment Trees on page 353
+2024-12-25 10:07:16,793 - src.models.processor - INFO - Found chapter: The Problem on page 354
+2024-12-25 10:07:16,796 - src.models.processor - INFO - Found chapter: Filling the Segment Tree on page 355
+2024-12-25 10:07:16,805 - src.models.processor - INFO - Found chapter: Querying the Segment Tree on page 359
+2024-12-25 10:07:16,807 - src.models.processor - INFO - Found chapter: Updating the Segment Tree on page 360
+2024-12-25 10:07:16,815 - src.models.processor - INFO - Found chapter: The main Function on page 364
+2024-12-25 10:07:16,818 - src.models.processor - INFO - Found chapter: Notes on page 365
+2024-12-25 10:07:16,819 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:07:16,825 - src.models.processor - INFO - Found chapter: CHAPTER 9: UNION-FIND on page 367
+2024-12-25 10:07:16,827 - src.models.processor - INFO - Found chapter: The Problem on page 368
+2024-12-25 10:07:16,830 - src.models.processor - INFO - Found chapter: Modeling as a Graph on page 369
+2024-12-25 10:07:16,837 - src.models.processor - INFO - Found chapter: Solution 1: BFS on page 372
+2024-12-25 10:07:16,845 - src.models.processor - INFO - Found chapter: Union-Find on page 376
+2024-12-25 10:07:16,852 - src.models.processor - INFO - Found chapter: Solution 2: Union-Find on page 379
+2024-12-25 10:07:16,857 - src.models.processor - INFO - Found chapter: Optimization 1: Union by Size on page 382
+2024-12-25 10:07:16,865 - src.models.processor - INFO - Found chapter: Optimization 2: Path Compression on page 386
+2024-12-25 10:07:16,870 - src.models.processor - INFO - Found chapter: Union-Find on page 388
+2024-12-25 10:07:16,873 - src.models.processor - INFO - Found chapter: Optimizations on page 389
+2024-12-25 10:07:16,876 - src.models.processor - INFO - Found chapter: The Problem on page 390
+2024-12-25 10:07:16,881 - src.models.processor - INFO - Found chapter: Augmenting Union-Find on page 391
+2024-12-25 10:07:16,889 - src.models.processor - INFO - Found chapter: The main Function on page 395
+2024-12-25 10:07:16,891 - src.models.processor - INFO - Found chapter: Find and Union on page 396
+2024-12-25 10:07:16,894 - src.models.processor - INFO - Found chapter: SetFriends and SetEnemies on page 397
+2024-12-25 10:07:16,898 - src.models.processor - INFO - Found chapter: AreFriends and AreEnemies on page 399
+2024-12-25 10:07:16,901 - src.models.processor - INFO - Found chapter: The Problem on page 400
+2024-12-25 10:07:16,904 - src.models.processor - INFO - Found chapter: Equivalent Drawers on page 401
+2024-12-25 10:07:16,911 - src.models.processor - INFO - Found chapter: The main Function on page 406
+2024-12-25 10:07:16,916 - src.models.processor - INFO - Found chapter: Find and Union on page 408
+2024-12-25 10:07:16,918 - src.models.processor - INFO - Found chapter: Notes on page 409
+2024-12-25 10:07:16,919 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:07:16,925 - src.models.processor - INFO - Found chapter: CHAPTER 10: RANDOMIZATION on page 411
+2024-12-25 10:07:16,928 - src.models.processor - INFO - Found chapter: Randomly Choosing a Piece on page 412
+2024-12-25 10:07:16,934 - src.models.processor - INFO - Found chapter: Generating Random Numbers on page 414
+2024-12-25 10:07:16,937 - src.models.processor - INFO - Found chapter: Determining Number of Pieces on page 415
+2024-12-25 10:07:16,943 - src.models.processor - INFO - Found chapter: Guessing Flavors on page 417
+2024-12-25 10:07:16,950 - src.models.processor - INFO - Found chapter: How Many Attempts Do We Need? on page 420
+2024-12-25 10:07:16,953 - src.models.processor - INFO - Found chapter: Filling the Flavor Arrays on page 421
+2024-12-25 10:07:16,955 - src.models.processor - INFO - Found chapter: The main Function on page 422
+2024-12-25 10:07:16,958 - src.models.processor - INFO - Found chapter: Monte Carlo Algorithms on page 423
+2024-12-25 10:07:16,962 - src.models.processor - INFO - Found chapter: Las Vegas Algorithms on page 424
+2024-12-25 10:07:16,965 - src.models.processor - INFO - Found chapter: Deterministic vs. Randomized Algorithms on page 425
+2024-12-25 10:07:16,968 - src.models.processor - INFO - Found chapter: The Problem on page 426
+2024-12-25 10:07:16,971 - src.models.processor - INFO - Found chapter: Solving a Subtask on page 427
+2024-12-25 10:07:16,976 - src.models.processor - INFO - Found chapter: Solution 1: Recursion on page 429
+2024-12-25 10:07:16,980 - src.models.processor - INFO - Found chapter: Solution 2: Adding Randomization on page 432
+2024-12-25 10:07:16,985 - src.models.processor - INFO - Found chapter: Implementing Quicksort on page 434
+2024-12-25 10:07:16,991 - src.models.processor - INFO - Found chapter: Worst-Case and Expected Runtime on page 436
+2024-12-25 10:07:16,996 - src.models.processor - INFO - Found chapter: Notes on page 438
+2024-12-25 10:07:17,003 - src.models.processor - INFO - Found chapter: AFTERWORD on page 439
+2024-12-25 10:07:17,009 - src.models.processor - INFO - Found chapter: The Case for Timing...and Something Else on page 441
+2024-12-25 10:07:17,015 - src.models.processor - INFO - Found chapter: Linear Time on page 443
+2024-12-25 10:07:17,018 - src.models.processor - INFO - Found chapter: Constant Time on page 444
+2024-12-25 10:07:17,021 - src.models.processor - INFO - Found chapter: Quadratic Time on page 445
+2024-12-25 10:07:17,024 - src.models.processor - INFO - Found chapter: Big O in This Book on page 446
+2024-12-25 10:07:17,030 - src.models.processor - INFO - Found chapter: Unique Snowflakes: Implicit Linked Lists on page 447
+2024-12-25 10:07:17,036 - src.models.processor - INFO - Found chapter: Burger Fervor: Reconstructing a Solution on page 450
+2024-12-25 10:07:17,042 - src.models.processor - INFO - Found chapter: Knight Chase: Encoding Moves on page 452
+2024-12-25 10:07:17,046 - src.models.processor - INFO - Found chapter: Mice Maze: Tracing with Heaps on page 454
+2024-12-25 10:07:17,054 - src.models.processor - INFO - Found chapter: Mice Maze: Implementation with Heaps on page 457
+2024-12-25 10:07:17,056 - src.models.processor - INFO - Found chapter: Compressing Path Compression on page 458
+2024-12-25 10:07:17,059 - src.models.processor - INFO - Found chapter: Step 2: Cleaner Assignment Operator on page 459
+2024-12-25 10:07:17,062 - src.models.processor - INFO - Found chapter: Caps and Bottles: In-Place Sorting on page 460
+2024-12-25 10:07:17,070 - src.models.processor - INFO - Found chapter: APPENDIX C: PROBLEM CREDITS on page 463
+2024-12-25 10:07:17,075 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:07:17,080 - src.models.processor - INFO - Found chapter: INDEX on page 467
+2024-12-25 10:07:17,094 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:07:17,099 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:07:17,102 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:07:17,103 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:07:17,104 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:07:17,106 - src.models.processor - INFO - PDF processing complete. Processed 482 pages, Found content in 462 pages
+2024-12-25 10:07:17,285 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:07:17,288 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:07:17,290 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:07:17,291 - src.models.processor - INFO - Starting chapter indexing
+2024-12-25 10:07:17,292 - src.utils.indexer - INFO - Starting document indexing
+2024-12-25 10:07:17,294 - src.utils.indexer - INFO - Indexed 0 chapters
+2024-12-25 10:07:17,296 - src.models.processor - INFO - Chapter indexing complete. Found 0 chapters
+2024-12-25 10:07:17,297 - src.models.processor - INFO - Enhanced document creation complete. Created 0 documents across 0 chapters
+2024-12-25 10:07:17,298 - src.models.processor - ERROR - No enhanced documents were created
+2024-12-25 10:07:17,299 - src.models.processor - ERROR - Error in document processing: No enhanced documents were created
+2024-12-25 10:14:09,765 - src.utils.resources - INFO - System Resources:
+2024-12-25 10:14:09,767 - src.utils.resources - INFO - CPU Count: 16
+2024-12-25 10:14:09,768 - src.utils.resources - INFO - Memory: 31.79 GB
+2024-12-25 10:14:09,770 - src.utils.resources - INFO - GPU Available: True
+2024-12-25 10:14:09,771 - src.utils.resources - INFO - GPU Count: 1
+2024-12-25 10:14:09,772 - src.utils.resources - INFO - GPU 0: NVIDIA GeForce RTX 3060 Laptop GPU
+2024-12-25 10:14:09,776 - src.utils.resources - INFO - Resource monitoring started
+2024-12-25 10:14:11,566 - src.models.processor - INFO - Starting document processing
+2024-12-25 10:14:11,567 - src.models.processor - INFO - Beginning batch processing
+2024-12-25 10:14:11,568 - src.models.processor - INFO - Starting batch processing
+2024-12-25 10:14:11,569 - src.models.processor - INFO - Starting PDF load: .\mybooks\Daniel Zingaro - Algorithmic Thinking_ Unlock Your Programming Potential-No Starch Press (2024).pdf
+2024-12-25 10:14:11,593 - src.models.processor - INFO - PDF opened successfully. Total pages: 482
+2024-12-25 10:14:11,601 - src.models.processor - INFO - Table of contents entries: 280
+2024-12-25 10:14:11,602 - src.models.processor - INFO - Found 21 chapter mappings
+2024-12-25 10:14:11,604 - src.models.processor - WARNING - Page 1 is empty
+2024-12-25 10:14:11,605 - src.models.processor - WARNING - Page 2 is empty
+2024-12-25 10:14:11,642 - src.models.processor - WARNING - Page 4 is empty
+2024-12-25 10:14:11,656 - src.models.processor - WARNING - Page 8 is empty
+2024-12-25 10:14:11,659 - src.models.processor - WARNING - Page 10 is empty
+2024-12-25 10:14:11,663 - src.models.processor - WARNING - Page 12 is empty
+2024-12-25 10:14:11,690 - src.models.processor - WARNING - Page 24 is empty
+2024-12-25 10:14:11,935 - src.models.processor - WARNING - Page 160 is empty
+2024-12-25 10:14:11,978 - src.models.processor - WARNING - Page 186 is empty
+2024-12-25 10:14:12,060 - src.models.processor - WARNING - Page 232 is empty
+2024-12-25 10:14:12,129 - src.models.processor - WARNING - Page 266 is empty
+2024-12-25 10:14:12,223 - src.models.processor - WARNING - Page 312 is empty
+2024-12-25 10:14:12,318 - src.models.processor - WARNING - Page 366 is empty
+2024-12-25 10:14:12,392 - src.models.processor - WARNING - Page 410 is empty
+2024-12-25 10:14:12,507 - src.models.processor - WARNING - Page 466 is empty
+2024-12-25 10:14:12,526 - src.models.processor - WARNING - Page 476 is empty
+2024-12-25 10:14:12,530 - src.models.processor - WARNING - Page 478 is empty
+2024-12-25 10:14:12,533 - src.models.processor - WARNING - Page 480 is empty
+2024-12-25 10:14:12,535 - src.models.processor - WARNING - Page 481 is empty
+2024-12-25 10:14:12,536 - src.models.processor - WARNING - Page 482 is empty
+2024-12-25 10:14:12,537 - src.models.processor - INFO - PDF processing complete. Processed 482 pages
+2024-12-25 10:14:12,765 - src.models.processor - INFO - Batch processing complete. Processed 462 documents, resulting in 462 processed documents
+2024-12-25 10:14:12,772 - src.models.processor - INFO - Batch processing complete. Got 462 documents
+2024-12-25 10:14:12,777 - src.models.processor - INFO - After filtering: 450 documents remain
+2024-12-25 10:14:12,787 - src.models.processor - INFO - Enhanced document creation complete. Created 450 documents across 21 chapters
